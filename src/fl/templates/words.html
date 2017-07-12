@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>WORDS STATISTICS</title>
+</head>
+<body>
+<h1>Collecting words from text files</h1>
+<form action="/words" method="post" enctype="multipart/form-data">
+    <input name="files" type="file" multiple="multiple">
+    <button type="submit">GO</button>
+</form>
+<p>&nbsp;</p>
+    {% if files %}
+        <ul>
+        {% for file in files %}
+            <li>{{ file.filename }}</li>
+        {% endfor %}
+        </ul>
+    {% endif %}
+    {% if stat %}
+        <b>In collection {{ stat.len }} words, collected in {{ stat.time }}</b>
+    {% endif %}
+</body>
+</html>

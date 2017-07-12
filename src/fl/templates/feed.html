@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Feed {{title}}</title>
+</head>
+<body>
+    <form method="POST" action="/">
+        <input type="text" name="city" size="30">
+        <button type="submit">Go</button>
+    </form>
+    <h2>Current weather</h2>
+    <p>City : <b>{{ weather.city }}</b></p>
+    <p>{{ weather.description }} | {{ weather.temperature }}&#8451;</p>
+    {% if articles %}
+        {% for article in articles %}
+            <b>{{ article.title }}</b>
+            <i>{{ article.published }}</i>
+            <p>{{ article.summary }}</p>
+        {% endfor %}
+    {% endif %}
+    {% if message %}
+        <b>{{ message }}</b>
+    {% endif %}
+</body>
+</html>

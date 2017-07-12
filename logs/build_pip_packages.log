@@ -1,0 +1,496 @@
+Collecting flask (from -r ./requirements.conf (line 1))
+  1 location(s) to search for versions of flask:
+  * https://pypi.python.org/simple/flask/
+  Getting page https://pypi.python.org/simple/flask/
+  Analyzing links from page https://pypi.python.org/simple/flask/
+    Found link https://pypi.python.org/packages/0e/e9/37ee66dde483dceefe45bb5e92b387f990d4f097df40c400cf816dcebaa4/Flask-0.12-py2.py3-none-any.whl#md5=d3351b10f54446203ac0fd8839850c62 (from https://pypi.python.org/simple/flask/), version: 0.12
+    Found link https://pypi.python.org/packages/16/a6/c458d3305e689d7e06a23eacee414ea10d870074a7673864ffea67109f9d/Flask-0.5.1.tar.gz#md5=c54da4a640554eb616e4210f256199e6 (from https://pypi.python.org/simple/flask/), version: 0.5.1
+    Found link https://pypi.python.org/packages/1c/b5/03c412ba48148e6c222e238201a0924360a85d755ce9597acbd99a1a6240/Flask-0.5.2.tar.gz#md5=002b8ff41fa14d82662b1d7763f77855 (from https://pypi.python.org/simple/flask/), version: 0.5.2
+    Found link https://pypi.python.org/packages/1c/c7/a361d00f4c9ed3f1b7ab77976e820ca347f3b0aec4dee6c66fe5c5a2124d/Flask-0.7.2.tar.gz#md5=a6f52d8de1f536ec982b363e4b6a0387 (from https://pypi.python.org/simple/flask/), version: 0.7.2
+    Found link https://pypi.python.org/packages/20/5d/f355d122c9d7a45d7846449f94b9f1d26df88556f705f14dd84a8fa264ea/Flask-0.8.1.tar.gz#md5=4b9e866bf43723d834b3ce8fcd13574d (from https://pypi.python.org/simple/flask/), version: 0.8.1
+    Found link https://pypi.python.org/packages/24/6e/11b9c57e46f276a8a8dfda85a2fa7ada62b0463b68693616c7ab5df356fa/Flask-0.12.1.tar.gz#md5=76e9fee5c3afcf4634b9baf96c578207 (from https://pypi.python.org/simple/flask/), version: 0.12.1
+    Found link https://pypi.python.org/packages/43/08/e4907533c6ca0ebb1867182fa94b1ffa41fa3aba5f6cb4969e108262e92b/Flask-0.7.tar.gz#md5=1aaf5504ae28925fb97fb3ab8b85d3cd (from https://pypi.python.org/simple/flask/), version: 0.7
+    Found link https://pypi.python.org/packages/44/86/481371798994529e105633a50b2332638105a1e191053bc0f4bbc9b91791/Flask-0.6.tar.gz#md5=55a5222123978c8c16dae385724c0f3a (from https://pypi.python.org/simple/flask/), version: 0.6
+    Found link https://pypi.python.org/packages/49/0a/fe5021b35436202d3d4225a766f3bdc7fb51521ad89e73c5162db36cdbc7/Flask-0.9.tar.gz#md5=4a89ef2b3ab0f151f781182bd0cc8933 (from https://pypi.python.org/simple/flask/), version: 0.9
+    Found link https://pypi.python.org/packages/4b/3a/4c20183df155dd2e39168e35d53a388efb384a512ca6c73001d8292c094a/Flask-0.12.tar.gz#md5=c1d30f51cff4a38f9454b23328a15c5a (from https://pypi.python.org/simple/flask/), version: 0.12
+    Found link https://pypi.python.org/packages/55/8a/78e165d30f0c8bb5d57c429a30ee5749825ed461ad6c959688872643ffb3/Flask-0.11.1.tar.gz#md5=d2af95d8fe79cf7da099f062dd122a08 (from https://pypi.python.org/simple/flask/), version: 0.11.1
+    Found link https://pypi.python.org/packages/63/2b/01f5ed23a78391f6e3e73075973da0ecb467c831376a0b09c0ec5afd7977/Flask-0.11.1-py2.py3-none-any.whl#md5=920be5772ee6399f70794d33a9eb9a13 (from https://pypi.python.org/simple/flask/), version: 0.11.1
+    Found link https://pypi.python.org/packages/6e/49/43b514bfdaf4af12e6ef1f17aa25447157bcbb864c07775dacd72e8c8e02/Flask-0.1.tar.gz#md5=d0c458397c49114fa279716798ca80c8 (from https://pypi.python.org/simple/flask/), version: 0.1
+    Found link https://pypi.python.org/packages/77/32/e3597cb19ffffe724ad4bf0beca4153419918e7fa4ba6a34b04ee4da3371/Flask-0.12.2-py2.py3-none-any.whl#md5=a0ded1d9a2066d3522efba953b4ed874 (from https://pypi.python.org/simple/flask/), version: 0.12.2
+    Found link https://pypi.python.org/packages/8b/cb/706dbb37f4ef3a75366c9e715f41d22e73ca4594303f48d229d906c80632/Flask-0.3.tar.gz#md5=5beb1e1b3c243d3ca078fe1ea9d6dbd8 (from https://pypi.python.org/simple/flask/), version: 0.3
+    Found link https://pypi.python.org/packages/8f/1c/453a427f55b91239b3368c8b975b55d089d5d79dc37545af41cd7157c187/Flask-0.6.1.tar.gz#md5=7af56e33fb6a35db2818c20e604c8698 (from https://pypi.python.org/simple/flask/), version: 0.6.1
+    Found link https://pypi.python.org/packages/9a/db/245abc92428bcdfdc32d8017ddd1b079afffce9c74f94e34d1aa777bc771/Flask-0.2.tar.gz#md5=6926822b17cc5c7baa7df9d22c9cf114 (from https://pypi.python.org/simple/flask/), version: 0.2
+    Found link https://pypi.python.org/packages/a3/89/a4bf29e78a87e11f0f6fdd4d9e02a0aece1eecd38118496da58d4826d7e3/Flask-0.4.tar.gz#md5=aec554ae684e7ff5895fd1b5c0dea378 (from https://pypi.python.org/simple/flask/), version: 0.4
+    Found link https://pypi.python.org/packages/ac/0b/191c5dc6b3e22dfacb8e1eba2bb8dc211c16972b23a0b419f8a33b3deb71/Flask-0.11-py2.py3-none-any.whl#md5=fa0c2ac5c6980fc92e2591ebfcad706c (from https://pypi.python.org/simple/flask/), version: 0.11
+    Found link https://pypi.python.org/packages/d4/6a/93500f2a7089b4e993fb095215979890b6204a5ba3f6b0f63dc6c3c6c827/Flask-0.5.tar.gz#md5=b5580ae05d75d80485c8694532f95910 (from https://pypi.python.org/simple/flask/), version: 0.5
+    Found link https://pypi.python.org/packages/db/9c/149ba60c47d107f85fe52564133348458f093dd5e6b57a5b60ab9ac517bb/Flask-0.10.1.tar.gz#md5=378670fe456957eb3c27ddaef60b2b24 (from https://pypi.python.org/simple/flask/), version: 0.10.1
+    Found link https://pypi.python.org/packages/dc/ca/c0ed9cc90c079085c698e284b672edbc1ffd6866b1830574095cbc5b7752/Flask-0.11.tar.gz#md5=89fbdcb04b7b96c5b24625ae299cf48b (from https://pypi.python.org/simple/flask/), version: 0.11
+    Found link https://pypi.python.org/packages/e0/d7/4de91ad9fc1854e651cf03f87eff939a92cd06716645dee86b0382674ea3/Flask-0.3.1.tar.gz#md5=22bde65fbbcd93c6509b9939817e3853 (from https://pypi.python.org/simple/flask/), version: 0.3.1
+    Found link https://pypi.python.org/packages/eb/12/1c7bd06fcbd08ba544f25bf2c6612e305a70ea51ca0eda8007344ec3f123/Flask-0.12.2.tar.gz#md5=97278dfdafda98ba7902e890b0289177 (from https://pypi.python.org/simple/flask/), version: 0.12.2
+    Found link https://pypi.python.org/packages/f0/84/e3c207a6aad1acfdfe1eda20abeadff47035f24820f09ac6870f9c8a26a3/Flask-0.8.tar.gz#md5=a5169306cfe49b3b369086f2a63816ab (from https://pypi.python.org/simple/flask/), version: 0.8
+    Found link https://pypi.python.org/packages/f3/46/53d83cbdb79b27678c7b032d5deaa556655dd034cc747ee609b3e3cbf95b/Flask-0.10.tar.gz#md5=92bc6b6ebd37d3120c235430a0491a15 (from https://pypi.python.org/simple/flask/), version: 0.10
+    Found link https://pypi.python.org/packages/f4/43/fb2d5fb1d10e1d0402dd57836cf9a78b7f69c8b5f76a04b6e6113d0d7c5a/Flask-0.12.1-py2.py3-none-any.whl#md5=8229cb65bc853afb6e4cf4f251f026eb (from https://pypi.python.org/simple/flask/), version: 0.12.1
+    Found link https://pypi.python.org/packages/fe/3e/ad5eb51d4666e76f389cd4f9c6cc22e1544e0daf72419ccab8705e918911/Flask-0.7.1.tar.gz#md5=4705d31035839dec320a1fd76ac2fa30 (from https://pypi.python.org/simple/flask/), version: 0.7.1
+  Using version 0.12.2 (newest of versions: 0.1, 0.2, 0.3, 0.3.1, 0.4, 0.5, 0.5.1, 0.5.2, 0.6, 0.6.1, 0.7, 0.7.1, 0.7.2, 0.8, 0.8.1, 0.9, 0.10, 0.10.1, 0.11, 0.11.1, 0.12, 0.12.1, 0.12.2)
+  Downloading Flask-0.12.2-py2.py3-none-any.whl (83kB)
+  Downloading from URL https://pypi.python.org/packages/77/32/e3597cb19ffffe724ad4bf0beca4153419918e7fa4ba6a34b04ee4da3371/Flask-0.12.2-py2.py3-none-any.whl#md5=a0ded1d9a2066d3522efba953b4ed874 (from https://pypi.python.org/simple/flask/)
+Collecting pymysql (from -r ./requirements.conf (line 2))
+  1 location(s) to search for versions of pymysql:
+  * https://pypi.python.org/simple/pymysql/
+  Getting page https://pypi.python.org/simple/pymysql/
+  Analyzing links from page https://pypi.python.org/simple/pymysql/
+    Found link https://pypi.python.org/packages/03/c3/7cbc2e0d8092322e55d583b598d5ffac289d9e9300122c44ee4a4a9a9580/PyMySQL-0.7.8-py3-none-any.whl#md5=46d2da034a00e6cba6b3963ccb33c281 (from https://pypi.python.org/simple/pymysql/), version: 0.7.8
+    Found link https://pypi.python.org/packages/04/65/c84eee72dcbf19d8050cf65157a15f68e0989620a00bf0b2a55a1a20b4cd/PyMySQL-0.6.2-py2.py3-none-any.whl#md5=1bdc2819835cb7fa2e31355c75f1988c (from https://pypi.python.org/simple/pymysql/), version: 0.6.2
+    Found link https://pypi.python.org/packages/08/20/7027735914c74f78d80fb406ab62d9428226d64fb52ccc345f2a6969fac4/PyMySQL-0.6.3.tar.gz#md5=bc99090e90bfcbc13c516c857ad3b734 (from https://pypi.python.org/simple/pymysql/), version: 0.6.3
+    Found link https://pypi.python.org/packages/08/73/b22e8df52687c30bbd53dc74e1241ca137a8625a24095a2451b569a5975b/PyMySQL-0.7.0-py2.py3-none-any.whl#md5=4e3754cea8cb7e8ea213d7eab44eaab7 (from https://pypi.python.org/simple/pymysql/), version: 0.7.0
+    Found link https://pypi.python.org/packages/0c/3b/17407490b878d2abbc0c544ff71491e08932d1d44225b84a103eae317b7c/PyMySQL-0.6.tar.gz#md5=cbf4f57051706058048f7816b8cd7c13 (from https://pypi.python.org/simple/pymysql/), version: 0.6
+    Found link https://pypi.python.org/packages/11/15/7131170dea6be7a3e8687f2541926ea049101d7f5eeacea496aecc3e7d10/PyMySQL-0.4.tar.gz#md5=4bc27e750f5d16e1e6169ad43b2c3568 (from https://pypi.python.org/simple/pymysql/), version: 0.4
+    Found link https://pypi.python.org/packages/1a/a0/71f4445e9ea494d61728b7f32b63a8c1cf0c0abc5eb94cb890b898b639c0/PyMySQL-0.7.10-py2.py3-none-any.whl#md5=67f4d85c821fcbc2df09833436de8c91 (from https://pypi.python.org/simple/pymysql/), version: 0.7.10
+    Found link https://pypi.python.org/packages/1d/7b/55458ad9af1280029d83a33fe9f44839b16ffeeb420b66fd9d934944c63f/PyMySQL-0.3.tar.gz#md5=16f3cc93034542c55a2caef45db0d8c6 (from https://pypi.python.org/simple/pymysql/), version: 0.3
+    Found link https://pypi.python.org/packages/29/f8/919a28976bf0557b7819fd6935bfd839118aff913407ca58346e14fa6c86/PyMySQL-0.7.11.tar.gz#md5=167f28514f4c20cbc6b1ddf831ade772 (from https://pypi.python.org/simple/pymysql/), version: 0.7.11
+    Found link https://pypi.python.org/packages/34/bc/ede45ce004b65d0dece2a7212c0b219fd61a991b7bc779c7c57dc276c076/PyMySQL-0.6.4-py2.py3-none-any.whl#md5=d8952fbe4f2292e9f9ee67d6f5fab5b0 (from https://pypi.python.org/simple/pymysql/), version: 0.6.4
+    Found link https://pypi.python.org/packages/48/58/bfa6e6ed66034781bbf1c1849a405706724f1d70ad9077d91585bb6ac6df/PyMySQL-0.7.8.tar.gz#md5=910d0ba0f5151ad70a9ab4066cbb9b27 (from https://pypi.python.org/simple/pymysql/), version: 0.7.8
+    Found link https://pypi.python.org/packages/4b/1d/2dd444d9652b67349ad80bb131cf80f2156f734216a5b9c8ea46f1f4cdd3/PyMySQL-0.7.7.tar.gz#md5=08c71c0b8c4c54a652c02f073224aeb2 (from https://pypi.python.org/simple/pymysql/), version: 0.7.7
+    Found link https://pypi.python.org/packages/52/d4/6fb29acaea6e415a2259247685e0afa0bfae23ea70cf42d011664032570c/PyMySQL-0.7.9-py3-none-any.whl#md5=bb1145294639d3cf8594cd8d830320f3 (from https://pypi.python.org/simple/pymysql/), version: 0.7.9
+    Found link https://pypi.python.org/packages/55/83/d1e33a51546b41377bbe4f64b6f4880cf26dea012a932c96d6558c7ad168/PyMySQL-0.6.7.tar.gz#md5=a923513b970e7add0dad9b50e20b82b3 (from https://pypi.python.org/simple/pymysql/), version: 0.6.7
+    Found link https://pypi.python.org/packages/56/e6/61fa86d333c725a194d2ec032d5f8835865c33c52efd44e4c2ad4908bf9e/PyMySQL-0.6.3-py2.py3-none-any.whl#md5=730172e00ad6161830b4f12d3fc9eac5 (from https://pypi.python.org/simple/pymysql/), version: 0.6.3
+    Found link https://pypi.python.org/packages/59/08/4f6c4260d4c84c17ce0dc6983740d0a31448d905f7077571bdc21cfd89ef/PyMySQL-0.7.6-py3-none-any.whl#md5=d290a6c0f0009f384b8ab93f3f3b6ca2 (from https://pypi.python.org/simple/pymysql/), version: 0.7.6
+    Skipping link https://pypi.python.org/packages/68/8f/86001b234df6398c93e9bd86f17e91cf4b6ff8fe237a481876d7d0010304/PyMySQL-0.3_1-py2.6.egg#md5=6b8f382e7e2f3a29f294964adbc62479 (from https://pypi.python.org/simple/pymysql/); unsupported archive format: .egg
+    Found link https://pypi.python.org/packages/6c/0c/2ec120b5607ae4a72546d660e0b836c6801fa3d0787c122db44faf6361a3/PyMySQL-0.7.3.tar.gz#md5=50abd3eb6c3d924e9f472fee3e8b9216 (from https://pypi.python.org/simple/pymysql/), version: 0.7.3
+    Skipping link https://pypi.python.org/packages/6e/2f/a2968ea644f1806321bdb37e866a44c504c3c4840f78ae7c4bef70ee2ba3/PyMySQL-0.2-py2.5.egg#md5=59283ce32d23cc770e7dc03e843e996f (from https://pypi.python.org/simple/pymysql/); unsupported archive format: .egg
+    Found link https://pypi.python.org/packages/6e/4f/ef34a861047953f8d314afd332b623b18c3bea37dec5a7d3d1395fcc034e/PyMySQL-0.6.2.tar.gz#md5=5d7016e8f13e6c4edb539aa736896ffe (from https://pypi.python.org/simple/pymysql/), version: 0.6.2
+    Skipping link https://pypi.python.org/packages/6e/bf/eaf9342941f8c3c980de418ba70bc0346d7f68c27e39cc30fbf77b8e5b86/PyMySQL-0.7.8-py2-none-any.whl#md5=0bbad431bde95448fc384d45d7820c1c (from https://pypi.python.org/simple/pymysql/); it is not compatible with this Python
+    Found link https://pypi.python.org/packages/73/ad/8838ff190b43fa2e63c756ba65b75959cc1c7e41e33b1f051ccfdc06c4b4/PyMySQL-0.7.0.tar.gz#md5=a8c316370d2bd0a48eb97f8424e56d4f (from https://pypi.python.org/simple/pymysql/), version: 0.7.0
+    Found link https://pypi.python.org/packages/7c/81/4f1045d8452a8aa716b2419bc56a86c734a3fa6875e2f3a37f99f1a5c7f5/PyMySQL-0.7.2-py2.py3-none-any.whl#md5=b29dd9b0d76de9e3c16ef861587fbfdd (from https://pypi.python.org/simple/pymysql/), version: 0.7.2
+    Found link https://pypi.python.org/packages/80/ba/a54a184a99bdb56fd08e92448cbe7a972fd4727621ed23c28208a9e3d232/PyMySQL-0.7.1-py2.py3-none-any.whl#md5=df84d289ed3cdea8c15c52dba5e25701 (from https://pypi.python.org/simple/pymysql/), version: 0.7.1
+    Found link https://pypi.python.org/packages/90/c2/d81638491baa572d6e79b78bde42c7449d2e45b578c919c0df1a76cb859b/PyMySQL-0.7.10.tar.gz#md5=fc96ba7c76c01ff0613b0cca9c40df75 (from https://pypi.python.org/simple/pymysql/), version: 0.7.10
+    Found link https://pypi.python.org/packages/90/dd/1d6548e5810beb9ea852b9e71ac9f8981bb3c5bd892bf7b454cbe564ba89/PyMySQL-0.6.6.tar.gz#md5=a3968a6bf6672fa93ca931ab2ef46024 (from https://pypi.python.org/simple/pymysql/), version: 0.6.6
+    Found link https://pypi.python.org/packages/92/0f/f19e7034fb29fd2df26937ef82328765fb1bc7bc7e9e0e7a1df84d6544aa/PyMySQL-0.6.1.tar.gz#md5=4c65cb6e464b6d90254406f387e27e47 (from https://pypi.python.org/simple/pymysql/), version: 0.6.1
+    Found link https://pypi.python.org/packages/97/17/a8cbe4281fe212a8bbf9027323cfcd8e0a7f2eed4675ebcdf87adbd15a7c/PyMySQL-0.7.2.tar.gz#md5=6d757cda8bfbd312714207f7c0bef5c7 (from https://pypi.python.org/simple/pymysql/), version: 0.7.2
+    Found link https://pypi.python.org/packages/9d/be/579c51d6a6f4f199f75897a12ae86c69e33bcaaf7d20e32450674d5e839f/PyMySQL-0.7.5-py2.py3-none-any.whl#md5=137c9838957011d761d74829cc150a26 (from https://pypi.python.org/simple/pymysql/), version: 0.7.5
+    Found link https://pypi.python.org/packages/a4/c4/c15457f261fda9839637de044eca9b6da8f55503183fe887523801b85701/PyMySQL-0.7.9.tar.gz#md5=bf82311ac2df4c43adad003a8c805b90 (from https://pypi.python.org/simple/pymysql/), version: 0.7.9
+    Found link https://pypi.python.org/packages/ad/64/dcec8965f6f26b0e69cc05c17ca638ed8b8bfba83b1e1496b42f531555bd/PyMySQL-0.7.3-py2.py3-none-any.whl#md5=6ecf58a814e5df0d76aecac19d0c0380 (from https://pypi.python.org/simple/pymysql/), version: 0.7.3
+    Found link https://pypi.python.org/packages/ae/8f/cbb204960f6d374bfe712bd4c24128a954245a8ae3d200e1cae2d845ee96/PyMySQL-0.6.4.dev1.tar.gz#md5=8ee59dff89f639b156033efb9827b51d (from https://pypi.python.org/simple/pymysql/), version: 0.6.4.dev1
+    Skipping link https://pypi.python.org/packages/b8/9a/78af77bffdedeb9f0e0dd060aa0430a302c4ab040d98fde5c0664ee180a0/PyMySQL-0.3-py2.6.egg#md5=9b3ce1b414b447cf7ebd2838d4932a48 (from https://pypi.python.org/simple/pymysql/); unsupported archive format: .egg
+    Found link https://pypi.python.org/packages/ba/6e/6424311a769caebf3f164028f4abc835dadd2fffd02c1f5c72b77c5681a0/PyMySQL-0.6.7-py2.py3-none-any.whl#md5=7b4f21cb118cd7bcaa2ca0bded484280 (from https://pypi.python.org/simple/pymysql/), version: 0.6.7
+    Found link https://pypi.python.org/packages/c2/7b/a66372c1df15aba7e34e3fdf11dc59adfb577a66b401b77f9481a4afaac5/PyMySQL-0.7.1.tar.gz#md5=0127ee6f5eea6ae2284b02de713c6d5c (from https://pypi.python.org/simple/pymysql/), version: 0.7.1
+    Found link https://pypi.python.org/packages/c4/f6/8dd8f92c52b3b1a92d5d1995be30bb3e28bb1923769f3b78348d91126db6/PyMySQL-0.6.1-py2.py3-none-any.whl#md5=0d927ce1d7d6edb2f2c32e80c23cc41a (from https://pypi.python.org/simple/pymysql/), version: 0.6.1
+    Found link https://pypi.python.org/packages/c6/42/c54c280d8418039bd2f61284f99cb6d9e0eae80383fc72ceb6eac67855fe/PyMySQL-0.7.11-py2.py3-none-any.whl#md5=021126da545c80000f352882b831f97d (from https://pypi.python.org/simple/pymysql/), version: 0.7.11
+    Found link https://pypi.python.org/packages/c7/2e/393b88e81407475c702c595543435f579d2e3cc351ef62641089a25c53d9/PyMySQL-0.6.4.tar.gz#md5=b449e04ba325cc6db9f98c7fe0a24c8b (from https://pypi.python.org/simple/pymysql/), version: 0.6.4
+    Skipping link https://pypi.python.org/packages/cb/e3/e863748b39a6a02f193d300fccff48180530962a239f82bc9fc5bd56f535/PyMySQL-0.2-py2.6.egg#md5=d50b505102b8a80a5535c4f1a8b3b0fa (from https://pypi.python.org/simple/pymysql/); unsupported archive format: .egg
+    Found link https://pypi.python.org/packages/d1/24/a5ae026c3c611b993091bbf5fa46069aefa5103851cd22414c5f8d09414b/PyMySQL-0.7.7-py3-none-any.whl#md5=591357fcde17a2b8f2eabd7760496e8d (from https://pypi.python.org/simple/pymysql/), version: 0.7.7
+    Skipping link https://pypi.python.org/packages/de/08/42a2d63547574f06959d29c6b1e7b20b09a97ca47dbf5942421d21ec56f8/PyMySQL-0.7.9-py2-none-any.whl#md5=d7c5d3a472d982b8dbfd02f0c9ed42fa (from https://pypi.python.org/simple/pymysql/); it is not compatible with this Python
+    Found link https://pypi.python.org/packages/e1/d6/194d7eb320164ff1e78307fa3de4a80066121d2a512db8057f9730a95019/PyMySQL-0.6.6-py2.py3-none-any.whl#md5=2b884925ec118e339c1bf7b3a023719c (from https://pypi.python.org/simple/pymysql/), version: 0.6.6
+    Found link https://pypi.python.org/packages/f1/22/6cf7bec9e7591a04dee8062adc509ee5eca8dff4b5ad42c2926fa3cd5de8/PyMySQL-0.7.4.tar.gz#md5=f4f4c617f4da23b60fa71a72304c6f43 (from https://pypi.python.org/simple/pymysql/), version: 0.7.4
+    Found link https://pypi.python.org/packages/f3/4c/9d7611b78e88d1f8087e24239c3318ccd973a822577508a69570382c9064/PyMySQL-0.7.5.tar.gz#md5=a87650294d868d6fc7dc81ac4248f873 (from https://pypi.python.org/simple/pymysql/), version: 0.7.5
+    Skipping link https://pypi.python.org/packages/f5/36/b3732a18c6fe820721515a207bd5fe74c16d74ec3e8b36869a73ee06660d/PyMySQL-0.7.7-py2-none-any.whl#md5=7f28f4bca0ccbcd0eb8e8c6ebf6d85e0 (from https://pypi.python.org/simple/pymysql/); it is not compatible with this Python
+    Found link https://pypi.python.org/packages/f5/d9/976c885396294bb1c4ca3d013fd2046496cde2efbb168e4f41dd12552dd9/PyMySQL-0.7.6.tar.gz#md5=d1353d9ad6e6668c3c463603b12cadb0 (from https://pypi.python.org/simple/pymysql/), version: 0.7.6
+    Found link https://pypi.python.org/packages/fe/95/a3f3dfe3f04d135d300f8373d88469eade47acd23082c82cb8656750734d/PyMySQL-0.5.tar.gz#md5=125e8a3449e05afcb04874a19673426b (from https://pypi.python.org/simple/pymysql/), version: 0.5
+    Found link https://pypi.python.org/packages/ff/d3/e21896cc2b655c74e9cf864fb93910d3b161b6907758b8b9f8f47711848d/PyMySQL-0.7.4-py2.py3-none-any.whl#md5=994c03780d32cb38fec06ad94ed58553 (from https://pypi.python.org/simple/pymysql/), version: 0.7.4
+  Using version 0.7.11 (newest of versions: 0.3, 0.4, 0.5, 0.6, 0.6.1, 0.6.2, 0.6.3, 0.6.4, 0.6.6, 0.6.7, 0.7.0, 0.7.1, 0.7.2, 0.7.3, 0.7.4, 0.7.5, 0.7.6, 0.7.7, 0.7.8, 0.7.9, 0.7.10, 0.7.11)
+  Using cached PyMySQL-0.7.11-py2.py3-none-any.whl
+  Downloading from URL https://pypi.python.org/packages/c6/42/c54c280d8418039bd2f61284f99cb6d9e0eae80383fc72ceb6eac67855fe/PyMySQL-0.7.11-py2.py3-none-any.whl#md5=021126da545c80000f352882b831f97d (from https://pypi.python.org/simple/pymysql/)
+Collecting Jinja2>=2.4 (from flask->-r ./requirements.conf (line 1))
+  1 location(s) to search for versions of Jinja2:
+  * https://pypi.python.org/simple/jinja2/
+  Getting page https://pypi.python.org/simple/jinja2/
+  Analyzing links from page https://pypi.python.org/simple/jinja2/
+    Found link https://pypi.python.org/packages/01/82/b2ed16b1cbea5ddbf1462fb65cf67ce7cd780dc1b6a6f0244f1387fa007d/Jinja2-2.0.tar.gz#md5=19fe3ee10ee94a6003c53374112f2403 (from https://pypi.python.org/simple/jinja2/), version: 2.0
+    Found link https://pypi.python.org/packages/08/b9/cefc15a27d9315b5d83a8010c1b19d4dcad1c68c99e0c38d704ce37f9e9d/Jinja2-2.3.tar.gz#md5=7fc34b115f157474d988db8caab6895c (from https://pypi.python.org/simple/jinja2/), version: 2.3
+    Skipping link https://pypi.python.org/packages/16/a8/953ae04316fc5f916982ad29a24247cdf3a10c903e487256b9309112a95b/Jinja2-2.0rc1-py2.4-macosx-10.3-i386.egg#md5=3b5901001e84aa62c8bc4c6f0a638b18 (from https://pypi.python.org/simple/jinja2/); unsupported archive format: .egg
+    Found link https://pypi.python.org/packages/1d/77/b5b98d2201259ac6962d299e6b445e8040d07c33ac3ff50509d7cd5ba00d/Jinja2-2.5.2.tar.gz#md5=3829be2926a067ee024e6d3e5327dbf7 (from https://pypi.python.org/simple/jinja2/), version: 2.5.2
+    Found link https://pypi.python.org/packages/1d/7a/3dec2b8717e34fba5aae98fc2a42d75c27b2eff3650a2dbd975a664d2a11/Jinja2-2.9-py2.py3-none-any.whl#md5=49b11a7357735679ffdc6d22e506d6bf (from https://pypi.python.org/simple/jinja2/), version: 2.9
+    Found link https://pypi.python.org/packages/23/94/ca42176bf7a252ce1f5d165953013573dffdbe4b5dac07f57146146ea432/Jinja2-2.7.2.tar.gz#md5=df1581455564e97010e38bc792012aa5 (from https://pypi.python.org/simple/jinja2/), version: 2.7.2
+    Found link https://pypi.python.org/packages/25/c8/212b1c2fd6df9eaf536384b6c6619c4e70a3afd2dffdd00e5296ffbae940/Jinja2-2.6.tar.gz#md5=1c49a8825c993bfdcf55bb36897d28a2 (from https://pypi.python.org/simple/jinja2/), version: 2.6
+    Skipping link https://pypi.python.org/packages/2a/68/316c1bfc6f34cdf07552a0350927224ea8c844c7651a98d64fa240718284/Jinja2-2.0rc1-py2.5-linux-i686.egg#md5=3a2be0c13c6036d59e81f9b3db82bdfa (from https://pypi.python.org/simple/jinja2/); unsupported archive format: .egg
+    Skipping link https://pypi.python.org/packages/2d/c4/93c21617ae4b0bdfd46ed5ac1d8694712d8cf7b5d1e868ca1d712593d2f8/Jinja2-2.0rc1-py2.4-linux-i686.egg#md5=e4286023eed2f6d8cc5f5075106db1f4 (from https://pypi.python.org/simple/jinja2/); unsupported archive format: .egg
+    Skipping link https://pypi.python.org/packages/33/ac/03043414ec22e6db67bcd915d298ca49ae81a1d01795bfc1cc9d8c04282c/Jinja2-2.0rc1-py2.4-win32.egg#md5=6f17c620d4bc9272f3061b70ab7af11b (from https://pypi.python.org/simple/jinja2/); unsupported archive format: .egg
+    Found link https://pypi.python.org/packages/33/db/9931c645626f9bf7867cc3c4225e7a8abf7aff37ecddb7e7d5df90a3b6c4/Jinja2-2.7.tar.gz#md5=c2fb12cbbb523c57d3d15bfe4dc0e8fe (from https://pypi.python.org/simple/jinja2/), version: 2.7
+    Found link https://pypi.python.org/packages/39/10/4e29a4822d736c878ee5be74912bba174e5ab0e5b1cecfa56da7b1341108/Jinja2-2.9.1-py2.py3-none-any.whl#md5=c984a7b6ab1751309b4149c06d44d490 (from https://pypi.python.org/simple/jinja2/), version: 2.9.1
+    Found link https://pypi.python.org/packages/3c/d1/49d69bc23d0e0c7612248dd8f5391bd043648865132309616c280ca1c837/Jinja2-2.9.5-py2.py3-none-any.whl#md5=3a518754a21f18b26eb36f3e73defab5 (from https://pypi.python.org/simple/jinja2/), version: 2.9.5
+    Skipping link https://pypi.python.org/packages/3d/6a/1999db9da05cfc3f799bb3184997cb1dc34063b4a34519d8618c44c5cf69/Jinja2-2.1-py2.4-win32.egg#md5=d8eb08f4ef61b05a00039a48f620deeb (from https://pypi.python.org/simple/jinja2/); unsupported archive format: .egg
+    Found link https://pypi.python.org/packages/44/af/6d8f605d188a50b11ec17fcd93e612c77197f2cd816facd5fea8aef7802e/Jinja2-2.9.tar.gz#md5=6befb7d870fab7f385b3eb4f2f805272 (from https://pypi.python.org/simple/jinja2/), version: 2.9
+    Found link https://pypi.python.org/packages/47/83/679b5592feb54e948d6599edf5dac61d2991778c3ecbef6b8041663f4740/Jinja2-2.7.1.tar.gz#md5=282aed153e69f970d6e76f78ed9d027a (from https://pypi.python.org/simple/jinja2/), version: 2.7.1
+    Found link https://pypi.python.org/packages/48/89/918559653d27c792906ac3958a8336a7cef4f517ec49a2f3c6be4d20ada4/Jinja2-2.5.3.tar.gz#md5=cae31ce405ec5e4f167913b25ee4f65a (from https://pypi.python.org/simple/jinja2/), version: 2.5.3
+    Found link https://pypi.python.org/packages/4b/d0/c967cd61324702887b00b1e8e78db94db734a9018443051a0854c16a8fe1/Jinja2-2.9.4-py2.py3-none-any.whl#md5=a01160d11bd84452ab7840b0f8c1d079 (from https://pypi.python.org/simple/jinja2/), version: 2.9.4
+    Found link https://pypi.python.org/packages/51/03/8da0ec1d8380991174e96df3171745f1ebd3ec3987935afaf766940c2052/Jinja2-2.2.tar.gz#md5=7ea7821801eee5def026c216d80e5103 (from https://pypi.python.org/simple/jinja2/), version: 2.2
+    Skipping link https://pypi.python.org/packages/53/f8/3c76c38c68f022ad6a81f29b95cf73f5127a232842c4916306525b39eccd/Jinja2-2.1.1-py2.5-win32.egg#md5=a6cd9757966640a7bb7e887c24dd9ff3 (from https://pypi.python.org/simple/jinja2/); unsupported archive format: .egg
+    Found link https://pypi.python.org/packages/58/cc/b600b1d2fb6218bd0cb20c88f2dd4f748e163bea2e9b6ada22b7d9fc4571/Jinja2-2.5.4.tar.gz#md5=4553d5aef15d550bfebbc1903014067e (from https://pypi.python.org/simple/jinja2/), version: 2.5.4
+    Found link https://pypi.python.org/packages/5e/73/10c45b82a88ed6b7751bd40da31eeefd7b362e07b56a99aa6e56655a0794/Jinja2-2.9.6-py2.py3-none-any.whl#md5=61a215bcdb0f7939c70582bc00b293f1 (from https://pypi.python.org/simple/jinja2/), version: 2.9.6
+    Found link https://pypi.python.org/packages/5f/bd/5815d4d925a2b8cbbb4b4960f018441b0c65f24ba29f3bdcfb3c8218a307/Jinja2-2.8.1.tar.gz#md5=150a8f1c180272753cf46dd3cdd6decf (from https://pypi.python.org/simple/jinja2/), version: 2.8.1
+    Found link https://pypi.python.org/packages/67/ea/92b1d9d8f2dc43302df7f5271b9500bbfc237386782343561a5f62beb306/Jinja2-2.8.1-py2.py3-none-any.whl#md5=7472b9df828747c2d44eb539558bbf7a (from https://pypi.python.org/simple/jinja2/), version: 2.8.1
+    Found link https://pypi.python.org/packages/68/fd/348686b7eaae0ce5b7383cf89085b1b7b20441aa1b00352b6450ade28b61/Jinja2-2.3.1.tar.gz#md5=391c7dd06c62dfe7e30ebaad7af0a401 (from https://pypi.python.org/simple/jinja2/), version: 2.3.1
+    Found link https://pypi.python.org/packages/6d/00/80746e9f3133c90686768f450cede835798c4c7e4a3b61a7621aa310f909/Jinja2-2.4.tar.gz#md5=635746009a6560e20db97e94db28867d (from https://pypi.python.org/simple/jinja2/), version: 2.4
+    Found link https://pypi.python.org/packages/71/59/d7423bd5e7ddaf3a1ce299ab4490e9044e8dfd195420fc83a24de9e60726/Jinja2-2.9.5.tar.gz#md5=9e55f0db6620dd99a1b366183a94270d (from https://pypi.python.org/simple/jinja2/), version: 2.9.5
+    Found link https://pypi.python.org/packages/7b/f4/acb2ebd5e40245668c800078d7637b43137d52542d1052d075375fad9f55/Jinja2-2.9.2-py2.py3-none-any.whl#md5=647ee3f7e2092d4ba36345a7aa305f23 (from https://pypi.python.org/simple/jinja2/), version: 2.9.2
+    Found link https://pypi.python.org/packages/7e/c9/7ade5e3a768b7f099e326690294609962bc83d0c5c392dcb97a6eb39aa13/Jinja2-2.0rc1.tar.gz#md5=7751e097f23fec244634e601d86e1d60 (from https://pypi.python.org/simple/jinja2/), version: 2.0rc1
+    Found link https://pypi.python.org/packages/7e/ea/f515b991b63346ad62efeae073d613c12216c551f9f9c2fa74c916e731c0/Jinja2-2.9.3.tar.gz#md5=4d7c7e4f598800500ea63b5afaa8ec0c (from https://pypi.python.org/simple/jinja2/), version: 2.9.3
+    Skipping link https://pypi.python.org/packages/7f/c0/25d775813d628bd8c173b906e20cf9fc7dfa7a816529216176199c8f58ec/Jinja2-2.0rc1-py2.5-linux-x86_64.egg#md5=3ccf95d2d6245b5407cdda0577b24f64 (from https://pypi.python.org/simple/jinja2/); unsupported archive format: .egg
+    Found link https://pypi.python.org/packages/85/b1/633bbedbd8dfead320329a4c6bd8ee0abd9079567f21084c6862b7085dba/Jinja2-2.4.1.tar.gz#md5=e0cf5af057fac63ac9689b86c8b31ce6 (from https://pypi.python.org/simple/jinja2/), version: 2.4.1
+    Found link https://pypi.python.org/packages/8b/b5/2670eb888424cefca96cc14475e20edfd2ce8b8f704753513a158832668f/Jinja2-2.5.1.tar.gz#md5=12be091a5d2edae961b65adfc99da826 (from https://pypi.python.org/simple/jinja2/), version: 2.5.1
+    Found link https://pypi.python.org/packages/90/61/f820ff0076a2599dd39406dcb858ecb239438c02ce706c8e91131ab9c7f1/Jinja2-2.9.6.tar.gz#md5=6411537324b4dba0956aaa8109f3c77b (from https://pypi.python.org/simple/jinja2/), version: 2.9.6
+    Found link https://pypi.python.org/packages/96/a1/c56bc4d99dc2663514a8481511e80eba8994133ae75eebdadfc91a5597d9/Jinja2-2.8-py2.py3-none-any.whl#md5=75acb6f1abfc46ed75f4fd392f321ac2 (from https://pypi.python.org/simple/jinja2/), version: 2.8
+    Skipping link https://pypi.python.org/packages/a1/12/98c441c87b1463391f723f9e185c9c3f4462018bd51966e35d7de85f2cf2/Jinja2-2.1.1-py2.4-win32.egg#md5=ce0a82883624cd31c8b513b7bc961148 (from https://pypi.python.org/simple/jinja2/); unsupported archive format: .egg
+    Found link https://pypi.python.org/packages/a7/4e/6c4a13fa6bacee33d5b2ff8653593f32853e020c4289b24935305f202baf/Jinja2-2.9.1.tar.gz#md5=4b2270f003aed1d3f934b4cd87d7f005 (from https://pypi.python.org/simple/jinja2/), version: 2.9.1
+    Found link https://pypi.python.org/packages/b0/73/eab0bca302d6d6a0b5c402f47ad1760dc9cb2dd14bbc1873ad48db258e4d/Jinja2-2.7.3.tar.gz#md5=b9dffd2f3b43d673802fe857c8445b1a (from https://pypi.python.org/simple/jinja2/), version: 2.7.3
+    Skipping link https://pypi.python.org/packages/ba/55/15ed056fb8c85e0c27fbb3d542250628e4df04dbd0f85c7d83274ee377cd/Jinja2-2.1-py2.6-win32.egg#md5=8319235be842d5a61c552be8d206f65a (from https://pypi.python.org/simple/jinja2/); unsupported archive format: .egg
+    Skipping link https://pypi.python.org/packages/bd/0e/643b5e074755af3e9e3b83c1c60efde6765cd44071ac12d89385f1cc4aab/Jinja2-2.0rc1-py2.4-linux-x86_64.egg#md5=3f0499f5f0caa7943d4ba3cb20740f5e (from https://pypi.python.org/simple/jinja2/); unsupported archive format: .egg
+    Found link https://pypi.python.org/packages/c2/f2/7bd3f76fd073798f7dadfb66133be6cc7d587a592c8110f2ede991a9bcb3/Jinja2-2.5.tar.gz#md5=d02f82e33afe918cef8a9abcd23ccd78 (from https://pypi.python.org/simple/jinja2/), version: 2.5
+    Skipping link https://pypi.python.org/packages/c4/3a/bc1d47228268d74c497bc82016180cbdf87be638e63b88136b7e007fc6f3/Jinja2-2.1.1-py2.6-win32.egg#md5=8540a2bf5bfd263842d3a7c6df13977b (from https://pypi.python.org/simple/jinja2/); unsupported archive format: .egg
+    Found link https://pypi.python.org/packages/cd/a7/393d52afb5b1fd11470d12a38f316717f3645ad95d9541f69dced68aff79/Jinja2-2.2.1.tar.gz#md5=fea849d68891218eb0b21c170f1c32d5 (from https://pypi.python.org/simple/jinja2/), version: 2.2.1
+    Found link https://pypi.python.org/packages/d9/60/9211025af939cddd0d3c4759837c017839a23edc7c6c08813569e6e655d4/Jinja2-2.1.1.tar.gz#md5=b37fc262e4f613eec57c3defe6aea97c (from https://pypi.python.org/simple/jinja2/), version: 2.1.1
+    Skipping link https://pypi.python.org/packages/dc/96/f9a47d6f13d4f66fe9376716c94453114d1409c3ee0a6120153c1c335cc0/Jinja2-2.1-py2.5-win32.egg#md5=135dad62ce5de34a54d568a2b3cd05f0 (from https://pypi.python.org/simple/jinja2/); unsupported archive format: .egg
+    Found link https://pypi.python.org/packages/de/0b/a9f8af13e178654a0a5fc8518773df649c503b7c1d0e7c77027ca705fdfc/Jinja2-2.5.5.tar.gz#md5=83b20c1eeb31f49d8e6392efae91b7d5 (from https://pypi.python.org/simple/jinja2/), version: 2.5.5
+    Found link https://pypi.python.org/packages/de/24/bad6dc9f0d7a0f835d940c5f5076f29824fce45ccd673cc843abf30b9117/Jinja2-2.9.2.tar.gz#md5=38b0447a9e4ff22e2df1c121c1548579 (from https://pypi.python.org/simple/jinja2/), version: 2.9.2
+    Found link https://pypi.python.org/packages/e4/20/00afebb3a730abdb8152845b3df0bce381daf39ce999ee0ac0ee3aee8845/Jinja2-2.9.3-py2.py3-none-any.whl#md5=15ece86934541f08e16a6f4b1f6e9459 (from https://pypi.python.org/simple/jinja2/), version: 2.9.3
+    Skipping link https://pypi.python.org/packages/ea/fc/64cf36076950f861b29862a88fee91dd38b1459b9a3ca7cd9e806c43c865/Jinja2-2.0rc1-py2.5-macosx-10.3-i386.egg#md5=bc82f2a2e9b55ca1472bc7b89fedca06 (from https://pypi.python.org/simple/jinja2/); unsupported archive format: .egg
+    Found link https://pypi.python.org/packages/f2/2f/0b98b06a345a761bec91a079ccae392d282690c2d8272e708f4d10829e22/Jinja2-2.8.tar.gz#md5=edb51693fe22c53cee5403775c71a99e (from https://pypi.python.org/simple/jinja2/), version: 2.8
+    Found link https://pypi.python.org/packages/f4/3f/28387a5bbc6883082c16784c6135440b94f9d5938fb156ff579798e18eda/Jinja2-2.9.4.tar.gz#md5=b151bfab6fb728fb7a06da4299161c74 (from https://pypi.python.org/simple/jinja2/), version: 2.9.4
+    Skipping link https://pypi.python.org/packages/f6/10/c9391f5561e69dff71e95b91bf4440c0a40f68e494358dcc082945c3aab1/Jinja2-2.0rc1-py2.5-win32.egg#md5=40af7fdc93abd3892b6ea2f208a6033b (from https://pypi.python.org/simple/jinja2/); unsupported archive format: .egg
+    Found link https://pypi.python.org/packages/f6/71/f7b1b6bb97d635e57e196ac2d70a0b001d37a94b0c37f5ec02d0ffce31f6/Jinja2-2.1.tar.gz#md5=c7a31931c95a7ae5e1baf21074fdd576 (from https://pypi.python.org/simple/jinja2/), version: 2.1
+  Using version 2.9.6 (newest of versions: 2.4, 2.4.1, 2.5, 2.5.1, 2.5.2, 2.5.3, 2.5.4, 2.5.5, 2.6, 2.7, 2.7.1, 2.7.2, 2.7.3, 2.8, 2.8.1, 2.9, 2.9.1, 2.9.2, 2.9.3, 2.9.4, 2.9.5, 2.9.6)
+  Downloading Jinja2-2.9.6-py2.py3-none-any.whl (340kB)
+  Downloading from URL https://pypi.python.org/packages/5e/73/10c45b82a88ed6b7751bd40da31eeefd7b362e07b56a99aa6e56655a0794/Jinja2-2.9.6-py2.py3-none-any.whl#md5=61a215bcdb0f7939c70582bc00b293f1 (from https://pypi.python.org/simple/jinja2/)
+Collecting Werkzeug>=0.7 (from flask->-r ./requirements.conf (line 1))
+  1 location(s) to search for versions of Werkzeug:
+  * https://pypi.python.org/simple/werkzeug/
+  Getting page https://pypi.python.org/simple/werkzeug/
+  Analyzing links from page https://pypi.python.org/simple/werkzeug/
+    Found link https://pypi.python.org/packages/0b/37/398042f9b852c57f7e9b4e1173dcd40e7b9980d9c76a700647c458f582b1/Werkzeug-0.11.1-py2.py3-none-any.whl#md5=ff8452a255afa44a5fcb1b79a3da2f27 (from https://pypi.python.org/simple/werkzeug/), version: 0.11.1
+    Found link https://pypi.python.org/packages/0b/c1/ecb9ca942e429944630cd33494db1fd7e692e6464c97a651fd762f2f160d/Werkzeug-0.11.14-py2.py3-none-any.whl#md5=4efc6cef346124a1aba19ccc42f9085b (from https://pypi.python.org/simple/werkzeug/), version: 0.11.14
+    Found link https://pypi.python.org/packages/0d/30/9778d232bdbef60fb9109a589defdd4d5849c8d4a60976f0b1dc95f3424f/Werkzeug-0.4.tar.gz#md5=40483df016b2116450ec9ceb66acd700 (from https://pypi.python.org/simple/werkzeug/), version: 0.4
+    Found link https://pypi.python.org/packages/0f/7c/b316cd9779817173e93f5cebc8fb387db33cc8dc526f3db5e61f2c008d5b/Werkzeug-0.11.9.tar.gz#md5=e4dbeb6302ce74babc0d7c21fc3d8291 (from https://pypi.python.org/simple/werkzeug/), version: 0.11.9
+    Found link https://pypi.python.org/packages/0f/91/eb4595f2ad79067c38409679a599cead6237b7e126b65db204d318c86d4b/Werkzeug-0.4.1.tar.gz#md5=9bc096feb9fc43ea9f6c558b9c330c3e (from https://pypi.python.org/simple/werkzeug/), version: 0.4.1
+    Found link https://pypi.python.org/packages/10/25/9a27e9d35aa457b40ce3aebde9d7b2fefbee96937a59c4975752c5c10a62/Werkzeug-0.11.5-py2.py3-none-any.whl#md5=7d5d6360f14e431de6fb10dfdece9e51 (from https://pypi.python.org/simple/werkzeug/), version: 0.11.5
+    Found link https://pypi.python.org/packages/11/e3/7e48abadfb8ed2bbc526fd62c0ae2f8871b466a0cab2b7c852c8d234b0d8/Werkzeug-0.11.6.tar.gz#md5=7328769c4b958611a080a9f0b8b961c8 (from https://pypi.python.org/simple/werkzeug/), version: 0.11.6
+    Found link https://pypi.python.org/packages/13/a2/c4f2a1e1e9239cd979de00a2d7e0008559c46d920e9842e9b8063c5e6bf5/Werkzeug-0.12.tar.gz#md5=1fd20c9dceed7d4ac279d3770277315e (from https://pypi.python.org/simple/werkzeug/), version: 0.12
+    Found link https://pypi.python.org/packages/18/47/152d1617f9cf49bb3780fce34706ce85f89c4cbb6baa7625d227540244c1/Werkzeug-0.11.13-py2.py3-none-any.whl#md5=1f9aded02c3a2b80bedb6d157c0aa58a (from https://pypi.python.org/simple/werkzeug/), version: 0.11.13
+    Found link https://pypi.python.org/packages/1c/35/18d0febbe432d61a607d1fe457d404cc30815ed9afb31314ea1a7bbbe9e3/Werkzeug-0.11.3-py2.py3-none-any.whl#md5=111eb38fe31ce6d17fd840bc4024286c (from https://pypi.python.org/simple/werkzeug/), version: 0.11.3
+    Found link https://pypi.python.org/packages/1c/b4/824c916f1451164bd871ad062defa2f48a34e2e952b12c0422f3ecf3a531/Werkzeug-0.11.1.tar.gz#md5=dd90173db2deb17a75933a8dc3cdc4db (from https://pypi.python.org/simple/werkzeug/), version: 0.11.1
+    Found link https://pypi.python.org/packages/1e/a3/a9cee8a481782d7192db46aa89bed2d30f309075db503d5e31c3ba4016f9/Werkzeug-0.8.2.tar.gz#md5=d4fcc1c9c5a4c4d148b87e5b581f9dea (from https://pypi.python.org/simple/werkzeug/), version: 0.8.2
+    Found link https://pypi.python.org/packages/28/8d/26f5612010252778c7d9d7afad19b990505a99689ef599c85e48237740e8/Werkzeug-0.9.1.tar.gz#md5=41ff407867a90c6f252cdacf2d6c2fd4 (from https://pypi.python.org/simple/werkzeug/), version: 0.9.1
+    Found link https://pypi.python.org/packages/29/43/6f344e71411687d9a1ae2aaac426cb8d864842c255f05ed5cfba0122c40b/Werkzeug-0.11.8-py2.py3-none-any.whl#md5=6a0a390fcf9702e10004bafe218f8c17 (from https://pypi.python.org/simple/werkzeug/), version: 0.11.8
+    Skipping link https://pypi.python.org/packages/29/65/efb4f95269c1743f060e50ff9f1b3cefa3614408839b49b51ff2cfdc51d4/Werkzeug-0.3-py2.5.egg#md5=1217f0819b993b7e20066c1507f2f90c (from https://pypi.python.org/simple/werkzeug/); unsupported archive format: .egg
+    Skipping link https://pypi.python.org/packages/2f/8b/994fcd2cb15fddef05fc67d5b0ff75f43f3eac089c165e5124628c126767/Werkzeug-0.2-py2.5.egg#md5=aa3ac768542f620f9005eb5a64ad5cb0 (from https://pypi.python.org/simple/werkzeug/); unsupported archive format: .egg
+    Found link https://pypi.python.org/packages/30/2e/8a4630856707238f1eec6cbb0ea4a44ed6ddd67dcbfd884517782efae7e5/Werkzeug-0.7.2.tar.gz#md5=a9ff192fcc60806e778344a36ff840f6 (from https://pypi.python.org/simple/werkzeug/), version: 0.7.2
+    Found link https://pypi.python.org/packages/32/d7/5648e058b7786f2f57480b415f369fc7ea8d51468c11b961eddef915891e/Werkzeug-0.10.tar.gz#md5=42ebf43b19475bf856fde740050d7707 (from https://pypi.python.org/simple/werkzeug/), version: 0.10
+    Found link https://pypi.python.org/packages/34/e9/624a3b7de10c47a1a3ab5a95174897f75269042cdf2a13656cdedc73c2ad/Werkzeug-0.11.6-py2.py3-none-any.whl#md5=a58f3a09fed6b67c9ee9234c526452ca (from https://pypi.python.org/simple/werkzeug/), version: 0.11.6
+    Skipping link https://pypi.python.org/packages/37/95/00a680f395343454bbd959e0798373a09798ee05e0b04aad20b0e3ebd16b/Werkzeug-0.1-py2.4.egg#md5=3395e2c1770b2df9b26b5e33406b322c (from https://pypi.python.org/simple/werkzeug/); unsupported archive format: .egg
+    Found link https://pypi.python.org/packages/40/cb/4efd61b34a3c6ec511d0f962e7956da8394549abbe673cf329b070805906/Werkzeug-0.6.tar.gz#md5=b84236e8d9a012591f26fd211fa2c84e (from https://pypi.python.org/simple/werkzeug/), version: 0.6
+    Found link https://pypi.python.org/packages/43/2e/d822b4a4216804519ace92e0368dcfc4b0b2887462d852fdd476b253ecc9/Werkzeug-0.11.11.tar.gz#md5=1d34afa1f19abcef4c0da51ebc2c4ea7 (from https://pypi.python.org/simple/werkzeug/), version: 0.11.11
+    Found link https://pypi.python.org/packages/43/98/91f18ee928714a953949f4836721e9b2b7c6f5edfb91a2daf373190fb492/Werkzeug-0.5.tar.gz#md5=d980e9c332a16db3538798aa303b1af5 (from https://pypi.python.org/simple/werkzeug/), version: 0.5
+    Found link https://pypi.python.org/packages/49/0c/e33c2caec86a7926186f7d454f6a901f45f05ad90337c6972d170b9ee806/Werkzeug-0.10.4-py2.py3-none-any.whl#md5=4017a2ed262cfa973f76108eb488e5be (from https://pypi.python.org/simple/werkzeug/), version: 0.10.4
+    Found link https://pypi.python.org/packages/4a/4a/0e5f691c1e00d8b5678f35225cfc9e21dcebec794fb9702648b8fac716b1/Werkzeug-0.11.13.zip#md5=9fc73626c72021b4497581340a92f8e3 (from https://pypi.python.org/simple/werkzeug/), version: 0.11.13
+    Found link https://pypi.python.org/packages/4c/01/7c64cf317ace1ff2c9b44cbf2c967dfcb170088b3676a871b7f08c059dfd/Werkzeug-0.10.1.tar.gz#md5=231d10996b7c3c1efe1776f22d570f83 (from https://pypi.python.org/simple/werkzeug/), version: 0.10.1
+    Skipping link https://pypi.python.org/packages/51/c7/95b5d6be90cd6cf306dda5e322f5460e660ad296525164126bd6c85f9561/Werkzeug-0.3.1-py2.3.egg#md5=5f669acf04af135ad8577d99a4387504 (from https://pypi.python.org/simple/werkzeug/); unsupported archive format: .egg
+    Skipping link https://pypi.python.org/packages/52/c8/602aa58f9421671f3811c343575f43adf443e19082c2127d0784fb617b90/Werkzeug-0.1-py2.5.egg#md5=2dd76797de7eabf0eee41e4d8c80ba73 (from https://pypi.python.org/simple/werkzeug/); unsupported archive format: .egg
+    Found link https://pypi.python.org/packages/56/41/c095a77eb2dd69bf278dd664a97d3416af04e9ba1a00b8c138f772741d31/Werkzeug-0.12.2.tar.gz#md5=e385b2c5a7193cff24c689b31e1124dc (from https://pypi.python.org/simple/werkzeug/), version: 0.12.2
+    Found link https://pypi.python.org/packages/5d/41/15cd28a4b8cc6560ce6ea71d9c30bdf147e83a06fda8b4391a83288913ef/Werkzeug-0.11.7-py2.py3-none-any.whl#md5=1b21ac5c86af62eb09e0bc35b764e277 (from https://pypi.python.org/simple/werkzeug/), version: 0.11.7
+    Found link https://pypi.python.org/packages/63/69/5702e5eb897d1a144001e21d676676bcb87b88c0862f947509ea95ea54fc/Werkzeug-0.9.6.tar.gz#md5=f7afcadc03b0f2267bdc156c34586043 (from https://pypi.python.org/simple/werkzeug/), version: 0.9.6
+    Found link https://pypi.python.org/packages/64/43/5f7bfe7bafee622337186d86116d8c00d5c34856e9b0caeea0899bf252af/Werkzeug-0.5.1.zip#md5=620955f34b8424c92674fe76d5c47679 (from https://pypi.python.org/simple/werkzeug/), version: 0.5.1
+    Found link https://pypi.python.org/packages/67/aa/f6996f1e199c49fa52fe84de51aea88fdb46c5b9234cb47b4b580d669753/Werkzeug-0.11.14.tar.gz#md5=cb4139025c63927068dd9a797908c8d6 (from https://pypi.python.org/simple/werkzeug/), version: 0.11.14
+    Found link https://pypi.python.org/packages/77/88/93b65347187fe101f2848982e2f84871e7aea76bb75aa05467b2c1eac6ea/Werkzeug-0.11.4.tar.gz#md5=9c5cfb704e39aea1524777caa5891eb0 (from https://pypi.python.org/simple/werkzeug/), version: 0.11.4
+    Found link https://pypi.python.org/packages/7f/3b/9ecf90ee8dada2b85d478d37ed64c70532dfaa2dd6b45a01018b331d37f3/Werkzeug-0.10.2.tar.gz#md5=66cccf6e98bbddc04bd9768c5e5e4b37 (from https://pypi.python.org/simple/werkzeug/), version: 0.10.2
+    Found link https://pypi.python.org/packages/8c/50/15a4a51a461370e0d51a6a3e9182857a14cf12f023350b96b2fde1a4be0b/Werkzeug-0.9.tar.gz#md5=c1700146d77252eb45be587b6b9db4ed (from https://pypi.python.org/simple/werkzeug/), version: 0.9
+    Found link https://pypi.python.org/packages/8d/3b/79b28e9436f321763bfa47d7784bedb8f0b6b7da92b2979ee5a2a60f3bc6/Werkzeug-0.9.3.tar.gz#md5=a040b7e8861111926e5cbe968b36d7c5 (from https://pypi.python.org/simple/werkzeug/), version: 0.9.3
+    Found link https://pypi.python.org/packages/91/a3/d9e77072b45ecee8e34d71cedb3c94c024f865673b3b177615182663629a/Werkzeug-0.2.tar.gz#md5=4f045b31ea7495361d1193a60be46930 (from https://pypi.python.org/simple/werkzeug/), version: 0.2
+    Skipping link https://pypi.python.org/packages/94/eb/28db1e40586a1e63322de82602c6e8753ff8cbe03d4972314b1903ee63d1/Werkzeug-0.3.1-py2.5.egg#md5=9ef7e15b78985481feb6289fb21f1238 (from https://pypi.python.org/simple/werkzeug/); unsupported archive format: .egg
+    Found link https://pypi.python.org/packages/96/2c/ef9b1b4692472938cfa15799258be35bc1cf600a860b24e1bd675a38ae39/Werkzeug-0.11.5.tar.gz#md5=daf443a939459e12f14fd2e4658a26df (from https://pypi.python.org/simple/werkzeug/), version: 0.11.5
+    Found link https://pypi.python.org/packages/97/02/306e0d57fdbf467ec1c763bc1757ec6ba20b1332e0ea7e49111533d71d1c/Werkzeug-0.12.2-py2.py3-none-any.whl#md5=f2f1955f470f6eae8563c9e4e1ad1bba (from https://pypi.python.org/simple/werkzeug/), version: 0.12.2
+    Found link https://pypi.python.org/packages/97/da/b0366b37c56d5d4746b3e7f3f39f096a882c5ac6169e4a7e664313c64e81/Werkzeug-0.11.7.tar.gz#md5=12b5d2b23a2ef09d2c61ce86965d14a7 (from https://pypi.python.org/simple/werkzeug/), version: 0.11.7
+    Skipping link https://pypi.python.org/packages/99/5d/89caf3938f6cc94ec34f5945342bf5cf15c9de3811c4883d7f68527b32d4/Werkzeug-0.3.1-py2.4.egg#md5=b242a4b1a03d0f85b6521ffec72900f8 (from https://pypi.python.org/simple/werkzeug/); unsupported archive format: .egg
+    Found link https://pypi.python.org/packages/a0/45/cc3c87afb246bf19aca390bd852d78b10b0c6543e2b8fc8b64877bea4e4f/Werkzeug-0.8.1.tar.gz#md5=20f3a65710d64f9f455111ed71e3da66 (from https://pypi.python.org/simple/werkzeug/), version: 0.8.1
+    Found link https://pypi.python.org/packages/a1/0c/e4c1144db79b9a0f917061cc86d1535261a68d6ad897fe972af5ee7710ef/Werkzeug-0.11.tar.gz#md5=f6cc409c534a6cd115b7f96fc77b7a62 (from https://pypi.python.org/simple/werkzeug/), version: 0.11
+    Found link https://pypi.python.org/packages/a1/1c/02e6127ec997c08266b03d7fd340ba7675dafe0e28886a569664fd019e56/Werkzeug-0.8.3.tar.gz#md5=12aa03e302ce49da98703938f257347a (from https://pypi.python.org/simple/werkzeug/), version: 0.8.3
+    Found link https://pypi.python.org/packages/a4/3c/417598d787f0a00029554d5e001d7ff1df884dc39594fbeff8aa5a92c708/Werkzeug-0.8.tar.gz#md5=6b20fc6ce88ec9e6726874ec72bb3645 (from https://pypi.python.org/simple/werkzeug/), version: 0.8
+    Found link https://pypi.python.org/packages/a5/46/9e8809b1eaffa8ea42ddd4b590dd59ebf539a9bad33c772b850d66697e4a/Werkzeug-0.6.2.tar.gz#md5=519408350346a247333bb5d584371724 (from https://pypi.python.org/simple/werkzeug/), version: 0.6.2
+    Found link https://pypi.python.org/packages/a5/e7/e8dcb0abe805e06cdb609dd1d9e188509345b51a2380c128aa189815437c/Werkzeug-0.1.tar.gz#md5=28ae0702cd3af4f1c655e2f8273d8c9f (from https://pypi.python.org/simple/werkzeug/), version: 0.1
+    Found link https://pypi.python.org/packages/a8/6a/12dca42596ffa19297bd31154b489c5dd5ab3399850644894de10e7bbcae/Werkzeug-0.11.4-py2.py3-none-any.whl#md5=6185433b025f5bfe90d8a670e97ca47f (from https://pypi.python.org/simple/werkzeug/), version: 0.11.4
+    Found link https://pypi.python.org/packages/a9/5e/41f791a3f380ec50f2c4c3ef1399d9ffce6b4fe9a7f305222f014cf4fe83/Werkzeug-0.11.11-py2.py3-none-any.whl#md5=c63a21eedce9504d223ed89358c4bdc9 (from https://pypi.python.org/simple/werkzeug/), version: 0.11.11
+    Found link https://pypi.python.org/packages/ab/65/d3f1edd1109cb1beb6b82f4139addad482df5b5ea113bdc98242383bf402/Werkzeug-0.12.1.tar.gz#md5=b1c7bbe0066c0578116d75fef65c7eb3 (from https://pypi.python.org/simple/werkzeug/), version: 0.12.1
+    Found link https://pypi.python.org/packages/ae/c3/f59f6ade89c811143272161aae8a7898735e7439b9e182d03d141de4804f/Werkzeug-0.12-py2.py3-none-any.whl#md5=4d4492720c5070d876fbdd05211675d0 (from https://pypi.python.org/simple/werkzeug/), version: 0.12
+    Found link https://pypi.python.org/packages/b3/30/453c5e63a70d4d3bef512035eb02eb1bd050ecfea0367981346f3b726240/Werkzeug-0.11.12-py2.py3-none-any.whl#md5=7b174750cd32380263fb83935d0fb33c (from https://pypi.python.org/simple/werkzeug/), version: 0.11.12
+    Found link https://pypi.python.org/packages/b7/3d/be1357f3cdbfa10c9898b0fbbd5eeeaef08df7908176d09c454e66592b1e/Werkzeug-0.11.2-py2.py3-none-any.whl#md5=a21a2329d977837d5f9faa9068cfb05e (from https://pypi.python.org/simple/werkzeug/), version: 0.11.2
+    Found link https://pypi.python.org/packages/b7/7f/44d3cfe5a12ba002b253f6985a4477edfa66da53787a2a838a40f6415263/Werkzeug-0.11.10.tar.gz#md5=780967186f9157e88f2bfbfa6f07a893 (from https://pypi.python.org/simple/werkzeug/), version: 0.11.10
+    Found link https://pypi.python.org/packages/b9/84/5e882887ee5e962e54fb19e25e04bf4c7b7ebe74b1906550cfb8e1990aa5/Werkzeug-0.11.12.zip#md5=f1be73d139c067e6caf0ff2564550f52 (from https://pypi.python.org/simple/werkzeug/), version: 0.11.12
+    Found link https://pypi.python.org/packages/bf/d1/37f309bff81dd40afe89692bd09e0888a7e3afbef08d6d3d1eb632de307f/Werkzeug-0.9.5.tar.gz#md5=e4ba9dc1149c56c07d698f850956210a (from https://pypi.python.org/simple/werkzeug/), version: 0.9.5
+    Skipping link https://pypi.python.org/packages/ca/47/6cc683d8b30069f4c9cd9a1d42572c90c5387492a6f8e51b835735fdc92a/Werkzeug-0.2-py2.4.egg#md5=5051e439cce3ca7fb5c4a4393ccc7012 (from https://pypi.python.org/simple/werkzeug/); unsupported archive format: .egg
+    Found link https://pypi.python.org/packages/cb/98/83bd68761e7bd0a378ab5a0d805939bf7923ea71ca3849d6961c04ddf82d/Werkzeug-0.11.9-py2.py3-none-any.whl#md5=d8340e479694dc0603fc5e10314a97f3 (from https://pypi.python.org/simple/werkzeug/), version: 0.11.9
+    Skipping link https://pypi.python.org/packages/cd/85/0391710ff9bfbd5eeb648ed62021c98682ffe669471c066d0515a1e99b7d/Werkzeug-0.3-py2.4.egg#md5=6b66a5a0986d005781a248993c3e270c (from https://pypi.python.org/simple/werkzeug/); unsupported archive format: .egg
+    Found link https://pypi.python.org/packages/d1/32/8ea95879ecc0b52cc0a4cab8686e7e18bcc71498554e6378f63bfefc145f/Werkzeug-0.6.1.tar.gz#md5=f4d3e131b111c1f48aa1d1cb0b82531c (from https://pypi.python.org/simple/werkzeug/), version: 0.6.1
+    Found link https://pypi.python.org/packages/d1/3b/c8b9b5612c4893443d1c9993dd7c9ba54a63a3f7a19aed389e1eb6f82d05/Werkzeug-0.3.1.tar.gz#md5=6119c0d9084cebc4103969616c9ac2ba (from https://pypi.python.org/simple/werkzeug/), version: 0.3.1
+    Found link https://pypi.python.org/packages/d1/e8/2b3e9c133c5c2ed5d32cfd8b40865c35c08b0f647b3ff7fe7c33526763ad/Werkzeug-0.7.tar.gz#md5=264d1beaa2676fc9216688c8b95c8833 (from https://pypi.python.org/simple/werkzeug/), version: 0.7
+    Found link https://pypi.python.org/packages/d5/19/8bfbef420b510540d59fcb1108f7233db3b4005f67f9c3abd15418b93df0/Werkzeug-0.3.tar.gz#md5=ec66867dfa0f8f84dd694d06ced394c2 (from https://pypi.python.org/simple/werkzeug/), version: 0.3
+    Found link https://pypi.python.org/packages/d8/5e/8abc95630f9c4248edffed30592468f884e845ba656a959a12e452fafcec/Werkzeug-0.9.4.tar.gz#md5=670fad41f57c13b71a6816765765a3dd (from https://pypi.python.org/simple/werkzeug/), version: 0.9.4
+    Skipping link https://pypi.python.org/packages/dd/4f/251903df88a0c09e9aca62af84525d1f6b5e37a4520651de34107b89c1f7/Werkzeug-0.3-py2.3.egg#md5=c2d8c63d19cd9be69566a80249cf746b (from https://pypi.python.org/simple/werkzeug/); unsupported archive format: .egg
+    Found link https://pypi.python.org/packages/dd/89/65fed0cb77bf6e4eb350f80f34fce14a3c39acbcced090fb3abc1e9ef230/Werkzeug-0.11-py2.py3-none-any.whl#md5=b853f46b245d36161f235bd311fb7263 (from https://pypi.python.org/simple/werkzeug/), version: 0.11
+    Found link https://pypi.python.org/packages/e2/70/28fb65066572ae5518fef4a53e61adedd0ce4928cdcad9c03f3ace221ae0/Werkzeug-0.10.2-py2.py3-none-any.whl#md5=d4c7c680f442471bb84735f15551f3cb (from https://pypi.python.org/simple/werkzeug/), version: 0.10.2
+    Found link https://pypi.python.org/packages/e6/92/47240436fb19717b42ad02a3c028796b474580b55149b51059826a55ebec/Werkzeug-0.11.8.tar.gz#md5=7ffc339ac66eec241278aa81ed40c4de (from https://pypi.python.org/simple/werkzeug/), version: 0.11.8
+    Found link https://pypi.python.org/packages/ec/17/a7e847bcfd7dcdc86c830ff2f0ab4e1a97b7efd8f8c8ebf26859091d3812/Werkzeug-0.10.4.tar.gz#md5=66a488e0ac50a9ec326fe020b3083450 (from https://pypi.python.org/simple/werkzeug/), version: 0.10.4
+    Found link https://pypi.python.org/packages/ef/c6/3c431fea5f93c8bc869ec9c7bdad9ffef4ff9c81bfe1d294217447206c46/Werkzeug-0.11.15-py2.py3-none-any.whl#md5=893d272530b18ba2546d53643600de61 (from https://pypi.python.org/simple/werkzeug/), version: 0.11.15
+    Found link https://pypi.python.org/packages/f1/2b/efd5c9e1cce9485254d9c18d41df47d212eeec154b9cc8e17457da9dce6a/Werkzeug-0.11.3.tar.gz#md5=9479bc7ea6a42c2d0d82929d3926df67 (from https://pypi.python.org/simple/werkzeug/), version: 0.11.3
+    Found link https://pypi.python.org/packages/f4/59/eab1d85bffc16abb34d35e271485522dcb8d3aeed3e2ea24c2b6ca76b44c/Werkzeug-0.9.2.tar.gz#md5=d4bf6dc46aaa792ac9290761095c2b99 (from https://pypi.python.org/simple/werkzeug/), version: 0.9.2
+    Found link https://pypi.python.org/packages/f6/00/f3aae474bbc18d2e2cb5651935fbdaf1fb3a9676e2d606bc7d96c4c85d29/Werkzeug-0.12.1-py2.py3-none-any.whl#md5=3fc1eb27df57a80a79dc032cb9a7c7fa (from https://pypi.python.org/simple/werkzeug/), version: 0.12.1
+    Found link https://pypi.python.org/packages/f6/d6/819c7462d86a4a22a276359db65bf8cc3afcbb7a8b2e41021cd6519a4f7d/Werkzeug-0.11.2.tar.gz#md5=b3b90c940ab5f77a1e96313263c6d288 (from https://pypi.python.org/simple/werkzeug/), version: 0.11.2
+    Found link https://pypi.python.org/packages/f7/41/6847fed02f9c1692461f66d2b9391c1e4236451f0cb5bcbe3ebc73de1ca2/Werkzeug-0.11.10-py2.py3-none-any.whl#md5=a299cbd884ae33f03ee9d8de75ca231e (from https://pypi.python.org/simple/werkzeug/), version: 0.11.10
+    Found link https://pypi.python.org/packages/fc/80/f10de2774c9c8ca248fb5ac3a9067c97e7d3cca18b203493225fd3b82e23/Werkzeug-0.7.1.tar.gz#md5=d5f2107fb2317944079b1c3019330c38 (from https://pypi.python.org/simple/werkzeug/), version: 0.7.1
+    Found link https://pypi.python.org/packages/fe/7f/6d70f765ce5484e07576313897793cb49333dd34e462488ee818d17244af/Werkzeug-0.11.15.tar.gz#md5=cb4010478dd33905f95920e4880204a2 (from https://pypi.python.org/simple/werkzeug/), version: 0.11.15
+  Using version 0.12.2 (newest of versions: 0.7, 0.7.1, 0.7.2, 0.8, 0.8.1, 0.8.2, 0.8.3, 0.9, 0.9.1, 0.9.2, 0.9.3, 0.9.4, 0.9.5, 0.9.6, 0.10, 0.10.1, 0.10.2, 0.10.4, 0.11, 0.11.1, 0.11.2, 0.11.3, 0.11.4, 0.11.5, 0.11.6, 0.11.7, 0.11.8, 0.11.9, 0.11.10, 0.11.11, 0.11.12, 0.11.13, 0.11.14, 0.11.15, 0.12, 0.12.1, 0.12.2)
+  Downloading Werkzeug-0.12.2-py2.py3-none-any.whl (312kB)
+  Downloading from URL https://pypi.python.org/packages/97/02/306e0d57fdbf467ec1c763bc1757ec6ba20b1332e0ea7e49111533d71d1c/Werkzeug-0.12.2-py2.py3-none-any.whl#md5=f2f1955f470f6eae8563c9e4e1ad1bba (from https://pypi.python.org/simple/werkzeug/)
+Collecting itsdangerous>=0.21 (from flask->-r ./requirements.conf (line 1))
+  1 location(s) to search for versions of itsdangerous:
+  * https://pypi.python.org/simple/itsdangerous/
+  Getting page https://pypi.python.org/simple/itsdangerous/
+  Analyzing links from page https://pypi.python.org/simple/itsdangerous/
+    Found link https://pypi.python.org/packages/02/f3/4c5e349f5cdb9f43a2c4c211182c78567c8d4998ff48b6423d8849533f06/itsdangerous-0.15.tar.gz#md5=f4125355528979570ec4ef18a64d000d (from https://pypi.python.org/simple/itsdangerous/), version: 0.15
+    Found link https://pypi.python.org/packages/33/15/e4c8722f8c12a4f2ca275c9b8db7d364985b12709a5e050839f8f1ab81fd/itsdangerous-0.9.tar.gz#md5=36e0a40eb98e3b48fa37039617d1cd2b (from https://pypi.python.org/simple/itsdangerous/), version: 0.9
+    Found link https://pypi.python.org/packages/41/6f/0246154a6f1c66ff13358db1ace0b62a7ce358aa6b5d52e61e053a527dc3/itsdangerous-0.9.1.tar.gz#md5=906506f36c4332059ba37b874da88d48 (from https://pypi.python.org/simple/itsdangerous/), version: 0.9.1
+    Found link https://pypi.python.org/packages/56/60/c4fd79a1855af1392257a423097c9cbfc69f66935dfed8a0bf959530f6c5/itsdangerous-0.22.tar.gz#md5=ba715357eadfb045ca06e11869366bfd (from https://pypi.python.org/simple/itsdangerous/), version: 0.22
+    Found link https://pypi.python.org/packages/7c/52/cc48bf6884cd1ab3e6d1969050ba7e760c0f29ebdb867e34d847d0b290ae/itsdangerous-0.18.tar.gz#md5=2549de4c366cd48ab0f9d32f363833e8 (from https://pypi.python.org/simple/itsdangerous/), version: 0.18
+    Found link https://pypi.python.org/packages/91/67/6f09ca3c0b631814915955dc20d81391dd53da44f4698c79356e61c4e235/itsdangerous-0.19.tar.gz#md5=0eb918080911b0829e1df36a513b48d5 (from https://pypi.python.org/simple/itsdangerous/), version: 0.19
+    Found link https://pypi.python.org/packages/9f/57/5aa16c781e45f2656f16f553a842fc2b7895fe973bcabcce866fb7cfe4b8/itsdangerous-0.16.tar.gz#md5=42f9a6d1c6727c6221207d96c9621b76 (from https://pypi.python.org/simple/itsdangerous/), version: 0.16
+    Found link https://pypi.python.org/packages/a3/0d/88558ab8db0176374ed9cec90a3d253beb027f80179b0a977b3072f3399e/itsdangerous-0.13.tar.gz#md5=d13b58d1ee2ef9e1f95d9133e7ecb4bf (from https://pypi.python.org/simple/itsdangerous/), version: 0.13
+    Found link https://pypi.python.org/packages/a3/f7/06b178102fac036b804d804907c28120ac0a6d9cafaeffc4b6f0e176a4e2/itsdangerous-0.21.tar.gz#md5=84d4b33f0a1e4d0f7f8f8755a5eb2580 (from https://pypi.python.org/simple/itsdangerous/), version: 0.21
+    Found link https://pypi.python.org/packages/c1/6c/ceefb52b2a5d7d1f2b1b407a96892182161904478b9ef86049e7b8162cb6/itsdangerous-0.23.tar.gz#md5=985e726eb76f18aca81e703f0a6c6efc (from https://pypi.python.org/simple/itsdangerous/), version: 0.23
+    Found link https://pypi.python.org/packages/c2/2c/574665fca71f3e9eb001a634fec1535c5ec1105e0901a2a2fb3b5b085020/itsdangerous-0.10.tar.gz#md5=5ec216aac82761339a7599ef98b47914 (from https://pypi.python.org/simple/itsdangerous/), version: 0.10
+    Found link https://pypi.python.org/packages/ce/db/2ec096d89bbda3b7983de28bd07bcf322b8118adfd7b8da4c037f90bb4cb/itsdangerous-0.17.tar.gz#md5=f40c7dc39beb859988b0a801d13672aa (from https://pypi.python.org/simple/itsdangerous/), version: 0.17
+    Found link https://pypi.python.org/packages/dc/b4/a60bcdba945c00f6d608d8975131ab3f25b22f2bcfe1dab221165194b2d4/itsdangerous-0.24.tar.gz#md5=a3d55aa79369aef5345c036a8a26307f (from https://pypi.python.org/simple/itsdangerous/), version: 0.24
+    Found link https://pypi.python.org/packages/e4/28/c4c6f1b9723110f0a298ca10d51893793cba37eb496a1beade4a24fbad62/itsdangerous-0.20.tar.gz#md5=adb4f7e4dd5f717341384837ca058c9c (from https://pypi.python.org/simple/itsdangerous/), version: 0.20
+    Found link https://pypi.python.org/packages/ea/51/0886047dce5108a325fa6577b240266b08d4f624cb4a87280ac1f2b167eb/itsdangerous-0.12.tar.gz#md5=a83dbd4f42d284d497c0bc247ac04509 (from https://pypi.python.org/simple/itsdangerous/), version: 0.12
+    Found link https://pypi.python.org/packages/f2/b2/855f0aa1bca10ed980638986e17f04908ae87249f5f4165d6416565b8c83/itsdangerous-0.14.tar.gz#md5=128e0a26a75e6640350749162697ffa3 (from https://pypi.python.org/simple/itsdangerous/), version: 0.14
+    Found link https://pypi.python.org/packages/fc/12/4861d77da371bfc458cf7c6d5c1c75bcccc7aa7c03687a658690eb4f491c/itsdangerous-0.11.tar.gz#md5=2bd23801f051c344bc5f06e673b8d1e0 (from https://pypi.python.org/simple/itsdangerous/), version: 0.11
+  Using version 0.24 (newest of versions: 0.21, 0.22, 0.23, 0.24)
+  Downloading itsdangerous-0.24.tar.gz (46kB)
+  Downloading from URL https://pypi.python.org/packages/dc/b4/a60bcdba945c00f6d608d8975131ab3f25b22f2bcfe1dab221165194b2d4/itsdangerous-0.24.tar.gz#md5=a3d55aa79369aef5345c036a8a26307f (from https://pypi.python.org/simple/itsdangerous/)
+  Running setup.py (path:/tmp/pip-build-n8lrrzw_/itsdangerous/setup.py) egg_info for package itsdangerous
+    Running command python setup.py egg_info
+    running egg_info
+    creating pip-egg-info/itsdangerous.egg-info
+    writing pip-egg-info/itsdangerous.egg-info/PKG-INFO
+    writing dependency_links to pip-egg-info/itsdangerous.egg-info/dependency_links.txt
+    writing top-level names to pip-egg-info/itsdangerous.egg-info/top_level.txt
+    writing manifest file 'pip-egg-info/itsdangerous.egg-info/SOURCES.txt'
+    reading manifest file 'pip-egg-info/itsdangerous.egg-info/SOURCES.txt'
+    reading manifest template 'MANIFEST.in'
+    warning: no previously-included files matching '*' found under directory 'docs/_build'
+    writing manifest file 'pip-egg-info/itsdangerous.egg-info/SOURCES.txt'
+  Source in /tmp/pip-build-n8lrrzw_/itsdangerous has version 0.24, which satisfies requirement itsdangerous>=0.21 from https://pypi.python.org/packages/dc/b4/a60bcdba945c00f6d608d8975131ab3f25b22f2bcfe1dab221165194b2d4/itsdangerous-0.24.tar.gz#md5=a3d55aa79369aef5345c036a8a26307f (from flask->-r ./requirements.conf (line 1))
+Collecting click>=2.0 (from flask->-r ./requirements.conf (line 1))
+  1 location(s) to search for versions of click:
+  * https://pypi.python.org/simple/click/
+  Getting page https://pypi.python.org/simple/click/
+  Analyzing links from page https://pypi.python.org/simple/click/
+    Found link https://pypi.python.org/packages/00/39/e0cb46e47f283e56e24107ee36456788106e744be284c998fbe8c7a7096e/click-2.3-py2.py3-none-any.whl#md5=7898be3bf41c91d003dd9cced5a8b183 (from https://pypi.python.org/simple/click/), version: 2.3
+    Found link https://pypi.python.org/packages/03/7b/4e36fd53099764fa70b5e56f2e089bfd9f433fb8da873326b5d8ee8b1820/click-3.1.tar.gz#md5=6fc0aa839e01ac1d05c4a823c698b6b2 (from https://pypi.python.org/simple/click/), version: 3.1
+    Found link https://pypi.python.org/packages/0a/37/9c433ae49db7d89bdab56e33d712837f6bd9d76d697d0f532ba449998ad7/click-1.1.tar.gz#md5=cb5a9b715bfffe7a297d107829978f45 (from https://pypi.python.org/simple/click/), version: 1.1
+    Found link https://pypi.python.org/packages/0c/d5/9b5cc74d3ac814140c1a0b89534b7d148c5b399b12f69883335d9c5cc622/click-4.0-py2.py3-none-any.whl#md5=c25cb7af50132bbf00eaf3b439815874 (from https://pypi.python.org/simple/click/), version: 4.0
+    Found link https://pypi.python.org/packages/15/0f/9070074d2bdabf216f99b922a5c85ef1bfc304236086d3bf77c6b35eacfc/click-3.3.tar.gz#md5=40edaba4d216915a8326c5b2cb52781d (from https://pypi.python.org/simple/click/), version: 3.3
+    Found link https://pypi.python.org/packages/1a/31/d1dcb9d90345731eaef95ee28d21b549ad3f637076ba02a51ffd7c97cf36/click-2.0-py2.py3-none-any.whl#md5=73f58892ba05d0fbdb56fa7c2c822c4a (from https://pypi.python.org/simple/click/), version: 2.0
+    Found link https://pypi.python.org/packages/1a/65/bde2803d3f5d217fde361f7773d51d5c9b1332181f740bdd7adb2462607c/click-0.1.tar.gz#md5=9f1eb0ea0d713e61c0a1a805095092a3 (from https://pypi.python.org/simple/click/), version: 0.1
+    Found link https://pypi.python.org/packages/1c/4d/98210295b2f14097de14db6be528af60ba9a3ef60b7e9efb207b08cdea1a/click-0.4.tar.gz#md5=f5d95b8bafd0cf2e1c8938fade7058d0 (from https://pypi.python.org/simple/click/), version: 0.4
+    Found link https://pypi.python.org/packages/1c/7c/10b4132dd952b6a04e37626258825b8aa8c1eb99545f2eb26a77c21efb55/click-6.6-py2.py3-none-any.whl#md5=ded5bf44698fd7def254d5cb9e5ad0b3 (from https://pypi.python.org/simple/click/), version: 6.6
+    Found link https://pypi.python.org/packages/25/71/234cf198880e0afd2edc69cafb97bbc34f5da90a29efa59787319c5f6c2d/click-1.0-py2.py3-none-any.whl#md5=3914880d0f97a722248d42a7d16e6b88 (from https://pypi.python.org/simple/click/), version: 1.0
+    Found link https://pypi.python.org/packages/26/ef/9152572c7d926c587aa75c7d39030422a7d1cec883f02965797b48ec1352/click-2.1.tar.gz#md5=0ba97ba09af82c56e2d35f3412d0aa6e (from https://pypi.python.org/simple/click/), version: 2.1
+    Found link https://pypi.python.org/packages/29/29/cc644d46601e331d025feb51f9c3ac6c2b6ad0b2e4403199514ea394ea82/click-6.3-py2.py3-none-any.whl#md5=7d48f60f00acdeb2ac7caab82a1e168d (from https://pypi.python.org/simple/click/), version: 6.3
+    Found link https://pypi.python.org/packages/30/05/12c666a6c55e315d70897f80005a8fc09c17f1d4137dd25667d849e16088/click-2.2.tar.gz#md5=e07460aab221e1b7ceee0018122e04a9 (from https://pypi.python.org/simple/click/), version: 2.2
+    Found link https://pypi.python.org/packages/34/c1/8806f99713ddb993c5366c362b2f908f18269f8d792aff1abfd700775a77/click-6.7-py2.py3-none-any.whl#md5=5e7a4e296b3212da2ff11017675d7a4d (from https://pypi.python.org/simple/click/), version: 6.7
+    Found link https://pypi.python.org/packages/35/19/29f7f3ff89929a0a5b938a2a63ecb0d02e6faa4e9a6d84bcedbcc638e212/click-0.3.tar.gz#md5=5d9563adb701eb6508dd03180b69d0a7 (from https://pypi.python.org/simple/click/), version: 0.3
+    Found link https://pypi.python.org/packages/36/f2/648fe6bdc708b71c81c2db677ba7ac640aac7798a1198cc953eeac1d0041/click-0.6-py2.py3-none-any.whl#md5=f66a36e97a157788ab40168d1c696593 (from https://pypi.python.org/simple/click/), version: 0.6
+    Found link https://pypi.python.org/packages/3a/6a/e4602135faa87282dab2d432c7d2e8b0e7a2663e487b5b4a335bda9bc9d4/click-6.4-py2.py3-none-any.whl#md5=4f343d0f3ddf2b3ef7b678fc4d80fe43 (from https://pypi.python.org/simple/click/), version: 6.4
+    Found link https://pypi.python.org/packages/3e/4f/e66a06ab731ba91faa60142d4e465fde941104fe9b6d27d1b9548f03ec64/click-5.0.tar.gz#md5=7c91618e3b067319250770d6e1f0f5c7 (from https://pypi.python.org/simple/click/), version: 5.0
+    Found link https://pypi.python.org/packages/3f/e3/18d6042b27cc41d4ca0ac9ce035d0d3d9cde2d6f0902d3f6f08d04aff596/click-0.6.tar.gz#md5=49268a0b714d88499b0ae74ea315b706 (from https://pypi.python.org/simple/click/), version: 0.6
+    Found link https://pypi.python.org/packages/4c/eb/dc135683e4865bbcba60b09b158bf491756a1c36d0e2820002235bf72a8a/click-4.1.tar.gz#md5=6a3fa88c738f2f775ec6de126feb99a4 (from https://pypi.python.org/simple/click/), version: 4.1
+    Found link https://pypi.python.org/packages/50/b5/6e007052e13d7a38a15b527e5849a369cc70a772dc1ff088546c29261c26/click-6.4.tar.gz#md5=2b95bc53237bac780599cb0372b73466 (from https://pypi.python.org/simple/click/), version: 6.4
+    Found link https://pypi.python.org/packages/69/f4/c8b37e427b1810069b84db6aba7cb5c6e569d64e762add3f77183a5c49b0/click-1.0.tar.gz#md5=1b373dba472fbb9328cfbddfde61da9e (from https://pypi.python.org/simple/click/), version: 1.0
+    Found link https://pypi.python.org/packages/6b/ca/8441cb224f040af2a71056b6de5d7bfdfe60c580931f6226587ef7617870/click-2.5.tar.gz#md5=a1bff2d2270745affd5bc60e66e50c23 (from https://pypi.python.org/simple/click/), version: 2.5
+    Found link https://pypi.python.org/packages/6e/97/f25f4277d90efa3d34ced57137023ecb96e0c9aacf79b4f93efe6d94a2f8/click-4.1-py2.py3-none-any.whl#md5=4c0dca35693367bf63b4290281dfeb2c (from https://pypi.python.org/simple/click/), version: 4.1
+    Found link https://pypi.python.org/packages/72/de/ab7b1f0952b411a61bb155d3dbf6271e4d39841cb7b124b75f82117157a4/click-0.5.tar.gz#md5=7717647596f0dbac3ea2abfbb14e9e8e (from https://pypi.python.org/simple/click/), version: 0.5
+    Found link https://pypi.python.org/packages/7a/00/c14926d8232b36b08218067bcd5853caefb4737cda3f0a47437151344792/click-6.6.tar.gz#md5=d0b09582123605220ad6977175f3e51d (from https://pypi.python.org/simple/click/), version: 6.6
+    Found link https://pypi.python.org/packages/7b/61/80731d6bbf0dd05fe2fe9bac02cd7c5e3306f5ee19a9e6b9102b5784cf8c/click-4.0.tar.gz#md5=79b475a1dbd566d8ce7daba5e6c1aaa7 (from https://pypi.python.org/simple/click/), version: 4.0
+    Found link https://pypi.python.org/packages/7e/16/5a3cc0022ac505131fba3c9ea6ae5178fbb6de3d53580301b59d76b22ae3/click-6.7.dev0.tar.gz#md5=82f2e6c9d56df3ef97e7166ea3f422a5 (from https://pypi.python.org/simple/click/), version: 6.7.dev0
+    Found link https://pypi.python.org/packages/82/46/e17055162fd9baa4ec7a4064ec313091fea3e3dad4047bf63b46471998ac/click-0.5.1.tar.gz#md5=03aea68acd0402273d10846581c154ba (from https://pypi.python.org/simple/click/), version: 0.5.1
+    Found link https://pypi.python.org/packages/82/e9/39bc04e46ac4dc16f60d3c95d2a8238f8a86a738ecab723755470e1486d1/click-0.1-py2.py3-none-any.whl#md5=0cc6bb5069cd4aded45df121da94b482 (from https://pypi.python.org/simple/click/), version: 0.1
+    Found link https://pypi.python.org/packages/83/93/b0209d3e0fcc1918808dd2eb2eb26f5edbc2722695cc4b8a63d1a11faebe/click-2.5-py2.py3-none-any.whl#md5=c1af149f5e10491831311f0e32aa7001 (from https://pypi.python.org/simple/click/), version: 2.5
+    Found link https://pypi.python.org/packages/85/e4/a39441e8cd202d5ad4af4e8e97d4c49d59f5ef60368721fab29ec4247240/click-3.2-py2.py3-none-any.whl#md5=7d0bf0ca4e8ce6056e35cc8135d21abd (from https://pypi.python.org/simple/click/), version: 3.2
+    Found link https://pypi.python.org/packages/88/e8/04c8f87706b72b470214502461c6c53081d64e6b82c8a2b4ba303a4caa53/click-0.4-py2.py3-none-any.whl#md5=f987186fcd3ceb83405542aeada54709 (from https://pypi.python.org/simple/click/), version: 0.4
+    Found link https://pypi.python.org/packages/89/60/384e2ab6f408564c9b86cac3680d89ea1aa12dbf5e7e89009c37b3c75511/click-1.1-py2.py3-none-any.whl#md5=ac934d5f166064d4b22ef9814f31f8b8 (from https://pypi.python.org/simple/click/), version: 1.1
+    Found link https://pypi.python.org/packages/8d/f7/e4a41b165fbe0a1c52db0cfc1e2f4452fcbdfa240c66fd0300a3acc858b9/click-3.0.tar.gz#md5=6919bcf8dcbe99197893464a97f640d5 (from https://pypi.python.org/simple/click/), version: 3.0
+    Found link https://pypi.python.org/packages/8f/98/14966b6d772fd5fba1eb3bb34a62a7f736d609572493397cdc5715c14514/click-5.1-py2.py3-none-any.whl#md5=03c35b9dc7332c55f2c202d57fba8394 (from https://pypi.python.org/simple/click/), version: 5.1
+    Found link https://pypi.python.org/packages/90/b3/85bdfbdf0191ab1e691ec0530a1d65c9f5354a1caf635abdc1eb1bc59ac4/click-2.3.tar.gz#md5=ce4852da9d4c33855e6f55e1fd06c1ac (from https://pypi.python.org/simple/click/), version: 2.3
+    Found link https://pypi.python.org/packages/95/d9/c3336b6b5711c3ab9d1d3a80f1a3e2afeb9d8c02a7166462f6cc96570897/click-6.7.tar.gz#md5=fc4cc00c4863833230d3af92af48abd4 (from https://pypi.python.org/simple/click/), version: 6.7
+    Found link https://pypi.python.org/packages/a0/90/0f5ea412a4d5b8e31cb514208e02824b45a8f4de52654733f0a862353fd9/click-6.2-py2.py3-none-any.whl#md5=87c1c86ea31e56ce88b02a26afeeb4f2 (from https://pypi.python.org/simple/click/), version: 6.2
+    Found link https://pypi.python.org/packages/a3/01/a0f85fd64800f0f477f7d36ec7c3e87758e78d1e4b39a590b16a436a0ff9/click-0.5-py2.py3-none-any.whl#md5=383371917b60bc71e94124f4ee76a396 (from https://pypi.python.org/simple/click/), version: 0.5
+    Found link https://pypi.python.org/packages/a3/36/d7fc5be7e81506c0687100f7cf0de443bf9467b2f4e47400f59e9c4a8bfd/click-2.2-py2.py3-none-any.whl#md5=70cd3b28d696c6e882b0818352352505 (from https://pypi.python.org/simple/click/), version: 2.2
+    Found link https://pypi.python.org/packages/a3/8a/7b995e58729456e0ce61cc1ec91b77835da0171e3dcc1283c09212bea2ed/click-3.1-py2.py3-none-any.whl#md5=008bac40c0e11f6be2226a5667b67095 (from https://pypi.python.org/simple/click/), version: 3.1
+    Found link https://pypi.python.org/packages/a7/99/3a3fbb2cff270d1da99f7c78f54f75aa598c17af59f0eb77f4d2ff9a84fc/click-2.1-py2.py3-none-any.whl#md5=d1003edfac1fd82eb539b1b3ba01cb61 (from https://pypi.python.org/simple/click/), version: 2.1
+    Found link https://pypi.python.org/packages/a9/19/87bff1b8e670e2763043bbc0125449ab9861bd20a40e348f7ba47539d8b2/click-2.4.tar.gz#md5=7affaac2973184810c018fab7cedca4f (from https://pypi.python.org/simple/click/), version: 2.4
+    Found link https://pypi.python.org/packages/af/3b/96f97aea83acce065079e31fc7befe9bb188e9e6474bc9ea4c6d60a2ee5d/click-6.0-py2.py3-none-any.whl#md5=4cd377997401aa9fceb3f2e259ca598e (from https://pypi.python.org/simple/click/), version: 6.0
+    Found link https://pypi.python.org/packages/af/55/056901e9f504a7cda9e955592360ce2c516b2b92f3da9318ba074be5d280/click-5.0-py2.py3-none-any.whl#md5=ae5a1032fb7e08e73213a847321044c2 (from https://pypi.python.org/simple/click/), version: 5.0
+    Found link https://pypi.python.org/packages/b4/7b/d57f1bc99f0776d79cfc1969a9e1eaffefe0fab153c5bd5abd1445b4805f/click-0.7.tar.gz#md5=970c4f58099d8f0132e5c53ad26729a8 (from https://pypi.python.org/simple/click/), version: 0.7
+    Found link https://pypi.python.org/packages/b7/21/ce45306a697fc80ebe0b73ce04ecc08c54488b2dbe74babc068959683fd5/click-3.3-py2.py3-none-any.whl#md5=5ca07a6c8b1eaca8e529cdb50a8a8349 (from https://pypi.python.org/simple/click/), version: 3.3
+    Found link https://pypi.python.org/packages/b7/34/a496632c4fb6c1ee76efedf77bb8d28b29363d839953d95095b12defe791/click-5.1.tar.gz#md5=9c5323008cccfe232a8b161fc8196d41 (from https://pypi.python.org/simple/click/), version: 5.1
+    Found link https://pypi.python.org/packages/bb/aa/c8b583d8d7cc5e21c8da30de6d8c605652836b4ef33b2b57c37f6a017c09/click-0.2.tar.gz#md5=5dfdd49507748b776db6c051191b367f (from https://pypi.python.org/simple/click/), version: 0.2
+    Found link https://pypi.python.org/packages/bc/99/bdd231c8c5f411e1bfdef262085c34de7189fb35414b9db14ba94a97cc1c/click-6.2.tar.gz#md5=83252a8095397b1f5f710fdd58b484d9 (from https://pypi.python.org/simple/click/), version: 6.2
+    Found link https://pypi.python.org/packages/c5/69/cfba82517e863d6403560e7a6e0085ea67d7fa1fd618938b0bb28a34a870/click-6.5.tar.gz#md5=a4ccf8c1b0bcd779f9297a1a8ac23d35 (from https://pypi.python.org/simple/click/), version: 6.5
+    Found link https://pypi.python.org/packages/d1/bc/9afb108a31cb0fd37e6774b23569197aee9974425d9c361a29e3eade9f32/click-2.6-py2.py3-none-any.whl#md5=75941e4e80563ca134fda5045b537c78 (from https://pypi.python.org/simple/click/), version: 2.6
+    Found link https://pypi.python.org/packages/dd/ce/ae6ede3636c212a9b33fbe93754e0caee570405d6af3b2b3c95988ce601b/click-0.3-py2.py3-none-any.whl#md5=5bcb7aee93c18342927bf1ff0f475462 (from https://pypi.python.org/simple/click/), version: 0.3
+    Found link https://pypi.python.org/packages/e6/d3/6168c106f28e263bd21facaba53d8430eb9651e7e33d68a9ff630b9dc9bd/click-6.0.tar.gz#md5=7c7559180e5087de8e7b1c95ff1e8f95 (from https://pypi.python.org/simple/click/), version: 6.0
+    Found link https://pypi.python.org/packages/e9/4c/ce5c6a47f240de954cbcba430a7a4afdc13e3b7482d5302048a4e6611281/click-0.5.1-py2.py3-none-any.whl#md5=5eec0adef35a10bab82f5bdeb318e4ca (from https://pypi.python.org/simple/click/), version: 0.5.1
+    Found link https://pypi.python.org/packages/ed/b7/01b0c30d4940594a1a25664d9764db02a16441dbd5c0eaf0fea14e41acd9/click-6.1.tar.gz#md5=8fa2bc9a2c5e4006b68551d80e4f6912 (from https://pypi.python.org/simple/click/), version: 6.1
+    Found link https://pypi.python.org/packages/ee/0b/4bb57fb1115590ab62faf8552f3aaa4b9caf18af7b272abc379a31604371/click-3.2.tar.gz#md5=f8a439029337ff39ed814ae5ce948318 (from https://pypi.python.org/simple/click/), version: 3.2
+    Found link https://pypi.python.org/packages/ee/a5/97f43386352a0658f12842848c152479fce3162251c08339866da45e912e/click-0.2-py2.py3-none-any.whl#md5=a8107b8c2ef4c28c0cb13957688656ee (from https://pypi.python.org/simple/click/), version: 0.2
+    Found link https://pypi.python.org/packages/f1/67/1b1c2077a99b9e2b5c4127e733ca4a90f8c9f0da05e256911aea8b25a31a/click-0.7-py2.py3-none-any.whl#md5=4ed8c0b279f982048f0852088aca0389 (from https://pypi.python.org/simple/click/), version: 0.7
+    Found link https://pypi.python.org/packages/f3/78/915ee51099f8244181e6a85628ad836c0b505ee2efc0323b3554055544e2/click-2.0.tar.gz#md5=259ebb6fcf28a72df2104db8f5a22962 (from https://pypi.python.org/simple/click/), version: 2.0
+    Found link https://pypi.python.org/packages/f5/3c/f784822f61697c30d630f42fdc755b7ba3b0231f999253887e6d83aaf9cf/click-6.1-py2.py3-none-any.whl#md5=2f02d3fc1806a592ce6fee3e94ae6dd3 (from https://pypi.python.org/simple/click/), version: 6.1
+    Found link https://pypi.python.org/packages/f6/66/65f7bcdcb6ace560cc5d6c4cdbb968bfc8d53f256ba206bf1884e547d786/click-3.0-py2.py3-none-any.whl#md5=13cead4d730cf0184e981bc2b5748248 (from https://pypi.python.org/simple/click/), version: 3.0
+    Found link https://pypi.python.org/packages/f7/52/59fef62b1927215be58b5a76c114a87883d5dbf2a600b47cb221a43d3c34/click-6.3.tar.gz#md5=2f171cdf12b8f2e284c224825f5e4634 (from https://pypi.python.org/simple/click/), version: 6.3
+    Found link https://pypi.python.org/packages/fc/92/403b0389319c017d9971570b6fc868e789fba31d96c53799ba726bae6a34/click-2.6.tar.gz#md5=bf5fbaecc1370934347b82ec707e3413 (from https://pypi.python.org/simple/click/), version: 2.6
+    Found link https://pypi.python.org/packages/fd/07/4df913eac02a5eed807a18e237f8d12e130cdf80085eab5a7a0b2fdffb07/click-2.4-py2.py3-none-any.whl#md5=52fb03573ab024cca207bd421888b08a (from https://pypi.python.org/simple/click/), version: 2.4
+  Using version 6.7 (newest of versions: 2.0, 2.1, 2.2, 2.3, 2.4, 2.5, 2.6, 3.0, 3.1, 3.2, 3.3, 4.0, 4.1, 5.0, 5.1, 6.0, 6.1, 6.2, 6.3, 6.4, 6.5, 6.6, 6.7)
+  Downloading click-6.7-py2.py3-none-any.whl (71kB)
+  Downloading from URL https://pypi.python.org/packages/34/c1/8806f99713ddb993c5366c362b2f908f18269f8d792aff1abfd700775a77/click-6.7-py2.py3-none-any.whl#md5=5e7a4e296b3212da2ff11017675d7a4d (from https://pypi.python.org/simple/click/)
+Collecting MarkupSafe>=0.23 (from Jinja2>=2.4->flask->-r ./requirements.conf (line 1))
+  1 location(s) to search for versions of MarkupSafe:
+  * https://pypi.python.org/simple/markupsafe/
+  Getting page https://pypi.python.org/simple/markupsafe/
+  Analyzing links from page https://pypi.python.org/simple/markupsafe/
+    Found link https://pypi.python.org/packages/00/00/d268f88c561a92e35e1df96e68dbec2210926366c79fd426b1d9ee99b020/MarkupSafe-0.12.tar.gz#md5=edd4b6950f6d4ddc6e23fa322f8f0f53 (from https://pypi.python.org/simple/markupsafe/), version: 0.12
+    Found link https://pypi.python.org/packages/00/52/33fd9769edf01ffab9e3fd321333fe4d9f7ac9cb0b17ce9524abcb64e089/MarkupSafe-0.15.tar.gz#md5=4e7c4d965fe5e033fa2d7bb7746bb186 (from https://pypi.python.org/simple/markupsafe/), version: 0.15
+    Found link https://pypi.python.org/packages/04/d0/21c43bb0a9c9b31c8bfeb3676e12ec0aae2b71632497b6bd6505c980a38a/MarkupSafe-0.17.tar.gz#md5=61d5edc130e3242cfaff9fd9fdefde8f (from https://pypi.python.org/simple/markupsafe/), version: 0.17
+    Found link https://pypi.python.org/packages/36/83/400b5f58bfa88f96bc68ccd963990c80549a2825d0777bd838f03d8f0b42/MarkupSafe-0.9.2.tar.gz#md5=69b72d1afdd9e808f9c1ef65f819c7a6 (from https://pypi.python.org/simple/markupsafe/), version: 0.9.2
+    Found link https://pypi.python.org/packages/3b/45/dfad433343922655477760d506b058f96a783e8c0ada7b8d0602ff2beace/MarkupSafe-0.9.1.tar.gz#md5=7f469f664b565b440f099997255e6d3c (from https://pypi.python.org/simple/markupsafe/), version: 0.9.1
+    Found link https://pypi.python.org/packages/44/ee/37bd0844418acd5fb9c588aae835f38b9b7c4cd0c9b95c78c8ebb74bb65a/MarkupSafe-0.16.tar.gz#md5=fe88012f7fe75252efd26cd25a100851 (from https://pypi.python.org/simple/markupsafe/), version: 0.16
+    Found link https://pypi.python.org/packages/4d/de/32d741db316d8fdb7680822dd37001ef7a448255de9699ab4bfcbdf4172b/MarkupSafe-1.0.tar.gz#md5=2fcedc9284d50e577b5192e8e3578355 (from https://pypi.python.org/simple/markupsafe/), version: 1.0
+    Found link https://pypi.python.org/packages/58/18/646cbd99909a0c86eb7b9c0277b88cb54f3e2619f6115f48199a4accde97/MarkupSafe-0.22.tar.gz#md5=cb3ec29fd5361add24cfd0c6e2953b3e (from https://pypi.python.org/simple/markupsafe/), version: 0.22
+    Found link https://pypi.python.org/packages/61/9d/195c0e2e9efcba7b5f2cad9d01ea7311e20358a7d1c8a928fb481eecad09/MarkupSafe-0.13.tar.gz#md5=f44b8f4bba98b3e66884158f97585829 (from https://pypi.python.org/simple/markupsafe/), version: 0.13
+    Found link https://pypi.python.org/packages/6f/c3/7adab2342dc7f14d32943505c9bd163d93a16fa117b8fee82e48f3529fb5/MarkupSafe-0.20.tar.gz#md5=7da066d9cb191a70aa85d0a3d43565d1 (from https://pypi.python.org/simple/markupsafe/), version: 0.20
+    Found link https://pypi.python.org/packages/8e/90/da092a12fb96e0c4cacc279d1f92819ae82bfa291e0a03afe8059518e91a/MarkupSafe-0.19.tar.gz#md5=ccb3f746c807c5500850987006854a6d (from https://pypi.python.org/simple/markupsafe/), version: 0.19
+    Found link https://pypi.python.org/packages/98/cf/197c3b0f73224b84eb419a967f87565bcc0b0c1147012397e6bd2d45e253/MarkupSafe-0.18.tar.gz#md5=f8d252fd05371e51dec2fe9a36890687 (from https://pypi.python.org/simple/markupsafe/), version: 0.18
+    Found link https://pypi.python.org/packages/be/30/7dfaf5f61e9648a9bb97ecd0099da2546ea78fe93cb9c777030c6d056c0d/MarkupSafe-0.9.tar.gz#md5=10a7c6bf81f91f280ba9e76e32e01c94 (from https://pypi.python.org/simple/markupsafe/), version: 0.9
+    Found link https://pypi.python.org/packages/c0/41/bae1254e0396c0cc8cf1751cb7d9afc90a602353695af5952530482c963f/MarkupSafe-0.23.tar.gz#md5=f5ab3deee4c37cd6a922fb81e730da6e (from https://pypi.python.org/simple/markupsafe/), version: 0.23
+    Found link https://pypi.python.org/packages/c6/33/963f57460372f8401e1f9aa32c8ed8f07a5cae0f11024f5ff1d4cb3576c8/MarkupSafe-0.21.tar.gz#md5=fde838d9337fa51744283f46a1db2e74 (from https://pypi.python.org/simple/markupsafe/), version: 0.21
+    Found link https://pypi.python.org/packages/cf/72/6ad21b64f007dba3d211a973f37e3bf0bffae88c4efb868999fd2c94497a/MarkupSafe-0.14.tar.gz#md5=68c6ea6df002649218d24cf490a8ca82 (from https://pypi.python.org/simple/markupsafe/), version: 0.14
+    Found link https://pypi.python.org/packages/ee/51/df4a007a19f3de1b733adac77da11fa45f1ec5089549a7cc2d67195bb2c1/MarkupSafe-0.11.tar.gz#md5=48d445941c16d6aa55caf8e148fc0911 (from https://pypi.python.org/simple/markupsafe/), version: 0.11
+    Found link https://pypi.python.org/packages/f1/a7/39b74c3c7b46531842d2a9a55b7d6bf5b44851786d131d0fa76dbb4abf44/MarkupSafe-0.9.3.tar.gz#md5=99dccbeb83302f6b593d382098b3b43a (from https://pypi.python.org/simple/markupsafe/), version: 0.9.3
+  Using version 1.0 (newest of versions: 0.23, 1.0)
+  Downloading MarkupSafe-1.0.tar.gz
+  Downloading from URL https://pypi.python.org/packages/4d/de/32d741db316d8fdb7680822dd37001ef7a448255de9699ab4bfcbdf4172b/MarkupSafe-1.0.tar.gz#md5=2fcedc9284d50e577b5192e8e3578355 (from https://pypi.python.org/simple/markupsafe/)
+  Running setup.py (path:/tmp/pip-build-n8lrrzw_/MarkupSafe/setup.py) egg_info for package MarkupSafe
+    Running command python setup.py egg_info
+    running egg_info
+    creating pip-egg-info/MarkupSafe.egg-info
+    writing dependency_links to pip-egg-info/MarkupSafe.egg-info/dependency_links.txt
+    writing pip-egg-info/MarkupSafe.egg-info/PKG-INFO
+    writing top-level names to pip-egg-info/MarkupSafe.egg-info/top_level.txt
+    writing manifest file 'pip-egg-info/MarkupSafe.egg-info/SOURCES.txt'
+    reading manifest file 'pip-egg-info/MarkupSafe.egg-info/SOURCES.txt'
+    reading manifest template 'MANIFEST.in'
+    writing manifest file 'pip-egg-info/MarkupSafe.egg-info/SOURCES.txt'
+  Source in /tmp/pip-build-n8lrrzw_/MarkupSafe has version 1.0, which satisfies requirement MarkupSafe>=0.23 from https://pypi.python.org/packages/4d/de/32d741db316d8fdb7680822dd37001ef7a448255de9699ab4bfcbdf4172b/MarkupSafe-1.0.tar.gz#md5=2fcedc9284d50e577b5192e8e3578355 (from Jinja2>=2.4->flask->-r ./requirements.conf (line 1))
+Building wheels for collected packages: itsdangerous, MarkupSafe
+  Destination directory: /tmp/tmpocp33wbmpip-wheel-
+  Running command /home/alex/PycharmProjects/fl/env/bin/python3.5 -u -c "import setuptools, tokenize;__file__='/tmp/pip-build-n8lrrzw_/itsdangerous/setup.py';f=getattr(tokenize, 'open', open)(__file__);code=f.read().replace('\r\n', '\n');f.close();exec(compile(code, __file__, 'exec'))" bdist_wheel -d /tmp/tmpocp33wbmpip-wheel- --python-tag cp35
+  running bdist_wheel
+  running build
+  running build_py
+  creating build
+  creating build/lib
+  copying itsdangerous.py -> build/lib
+  installing to build/bdist.linux-x86_64/wheel
+  running install
+  running install_lib
+  creating build/bdist.linux-x86_64
+  creating build/bdist.linux-x86_64/wheel
+  copying build/lib/itsdangerous.py -> build/bdist.linux-x86_64/wheel
+  running install_egg_info
+  running egg_info
+  writing top-level names to itsdangerous.egg-info/top_level.txt
+  writing itsdangerous.egg-info/PKG-INFO
+  writing dependency_links to itsdangerous.egg-info/dependency_links.txt
+  reading manifest file 'itsdangerous.egg-info/SOURCES.txt'
+  reading manifest template 'MANIFEST.in'
+  warning: no previously-included files matching '*' found under directory 'docs/_build'
+  writing manifest file 'itsdangerous.egg-info/SOURCES.txt'
+  Copying itsdangerous.egg-info to build/bdist.linux-x86_64/wheel/itsdangerous-0.24-py3.5.egg-info
+  running install_scripts
+  creating build/bdist.linux-x86_64/wheel/itsdangerous-0.24.dist-info/WHEEL
+  Stored in directory: /home/alex/.cache/pip/wheels/fc/a8/66/24d655233c757e178d45dea2de22a04c6d92766abfb741129a
+  Removing source in /tmp/pip-build-n8lrrzw_/itsdangerous
+  Destination directory: /tmp/tmp2pgbj4d0pip-wheel-
+  Running command /home/alex/PycharmProjects/fl/env/bin/python3.5 -u -c "import setuptools, tokenize;__file__='/tmp/pip-build-n8lrrzw_/MarkupSafe/setup.py';f=getattr(tokenize, 'open', open)(__file__);code=f.read().replace('\r\n', '\n');f.close();exec(compile(code, __file__, 'exec'))" bdist_wheel -d /tmp/tmp2pgbj4d0pip-wheel- --python-tag cp35
+  running bdist_wheel
+  running build
+  running build_py
+  creating build
+  creating build/lib.linux-x86_64-3.5
+  creating build/lib.linux-x86_64-3.5/markupsafe
+  copying markupsafe/_compat.py -> build/lib.linux-x86_64-3.5/markupsafe
+  copying markupsafe/_constants.py -> build/lib.linux-x86_64-3.5/markupsafe
+  copying markupsafe/_native.py -> build/lib.linux-x86_64-3.5/markupsafe
+  copying markupsafe/__init__.py -> build/lib.linux-x86_64-3.5/markupsafe
+  running egg_info
+  writing top-level names to MarkupSafe.egg-info/top_level.txt
+  writing MarkupSafe.egg-info/PKG-INFO
+  writing dependency_links to MarkupSafe.egg-info/dependency_links.txt
+  reading manifest file 'MarkupSafe.egg-info/SOURCES.txt'
+  reading manifest template 'MANIFEST.in'
+  writing manifest file 'MarkupSafe.egg-info/SOURCES.txt'
+  copying markupsafe/_speedups.c -> build/lib.linux-x86_64-3.5/markupsafe
+  running build_ext
+  building 'markupsafe._speedups' extension
+  creating build/temp.linux-x86_64-3.5
+  creating build/temp.linux-x86_64-3.5/markupsafe
+  x86_64-linux-gnu-gcc -pthread -DNDEBUG -g -fwrapv -O2 -Wall -Wstrict-prototypes -g -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -fPIC -I/usr/include/python3.5m -I/home/alex/PycharmProjects/fl/env/include/python3.5m -c markupsafe/_speedups.c -o build/temp.linux-x86_64-3.5/markupsafe/_speedups.o
+  x86_64-linux-gnu-gcc -pthread -shared -Wl,-O1 -Wl,-Bsymbolic-functions -Wl,-Bsymbolic-functions -Wl,-z,relro -Wl,-Bsymbolic-functions -Wl,-z,relro -g -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 build/temp.linux-x86_64-3.5/markupsafe/_speedups.o -o build/lib.linux-x86_64-3.5/markupsafe/_speedups.cpython-35m-x86_64-linux-gnu.so
+  installing to build/bdist.linux-x86_64/wheel
+  running install
+  running install_lib
+  creating build/bdist.linux-x86_64
+  creating build/bdist.linux-x86_64/wheel
+  creating build/bdist.linux-x86_64/wheel/markupsafe
+  copying build/lib.linux-x86_64-3.5/markupsafe/_speedups.c -> build/bdist.linux-x86_64/wheel/markupsafe
+  copying build/lib.linux-x86_64-3.5/markupsafe/_compat.py -> build/bdist.linux-x86_64/wheel/markupsafe
+  copying build/lib.linux-x86_64-3.5/markupsafe/_constants.py -> build/bdist.linux-x86_64/wheel/markupsafe
+  copying build/lib.linux-x86_64-3.5/markupsafe/_native.py -> build/bdist.linux-x86_64/wheel/markupsafe
+  copying build/lib.linux-x86_64-3.5/markupsafe/_speedups.cpython-35m-x86_64-linux-gnu.so -> build/bdist.linux-x86_64/wheel/markupsafe
+  copying build/lib.linux-x86_64-3.5/markupsafe/__init__.py -> build/bdist.linux-x86_64/wheel/markupsafe
+  running install_egg_info
+  Copying MarkupSafe.egg-info to build/bdist.linux-x86_64/wheel/MarkupSafe-1.0-py3.5.egg-info
+  running install_scripts
+  creating build/bdist.linux-x86_64/wheel/MarkupSafe-1.0.dist-info/WHEEL
+  Stored in directory: /home/alex/.cache/pip/wheels/88/a7/30/e39a54a87bcbe25308fa3ca64e8ddc75d9b3e5afa21ee32d57
+  Removing source in /tmp/pip-build-n8lrrzw_/MarkupSafe
+Successfully built itsdangerous MarkupSafe
+Installing collected packages: MarkupSafe, Jinja2, Werkzeug, itsdangerous, click, flask, pymysql
+
+  *** Error compiling '/tmp/pip-build-n8lrrzw_/Jinja2/jinja2/asyncfilters.py'...
+    File "/tmp/pip-build-n8lrrzw_/Jinja2/jinja2/asyncfilters.py", line 24
+      yield item
+               ^
+  SyntaxError: 'yield' inside async function
+  
+  *** Error compiling '/tmp/pip-build-n8lrrzw_/Jinja2/jinja2/asyncsupport.py'...
+    File "/tmp/pip-build-n8lrrzw_/Jinja2/jinja2/asyncsupport.py", line 35
+      yield event
+                ^
+  SyntaxError: 'yield' inside async function
+  
+
+
+
+
+
+
+Successfully installed Jinja2-2.9.6 MarkupSafe-1.0 Werkzeug-0.12.2 click-6.7 flask-0.12.2 itsdangerous-0.24 pymysql-0.7.11
+Cleaning up...
+Requirement already satisfied: flask in ./env/lib/python3.5/site-packages (from -r ./requirements.conf (line 1))
+Requirement already satisfied: pymysql in ./env/lib/python3.5/site-packages (from -r ./requirements.conf (line 2))
+Requirement already satisfied: feedparser in ./env/lib/python3.5/site-packages (from -r ./requirements.conf (line 3))
+Requirement already satisfied: urllib3 in ./env/lib/python3.5/site-packages (from -r ./requirements.conf (line 4))
+Requirement already satisfied: Werkzeug>=0.7 in ./env/lib/python3.5/site-packages (from flask->-r ./requirements.conf (line 1))
+Requirement already satisfied: itsdangerous>=0.21 in ./env/lib/python3.5/site-packages (from flask->-r ./requirements.conf (line 1))
+Requirement already satisfied: click>=2.0 in ./env/lib/python3.5/site-packages (from flask->-r ./requirements.conf (line 1))
+Requirement already satisfied: Jinja2>=2.4 in ./env/lib/python3.5/site-packages (from flask->-r ./requirements.conf (line 1))
+Requirement already satisfied: MarkupSafe>=0.23 in ./env/lib/python3.5/site-packages (from Jinja2>=2.4->flask->-r ./requirements.conf (line 1))
+Cleaning up...
